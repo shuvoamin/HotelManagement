@@ -1,0 +1,824 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--xtools2_universal_type_manager-->
+<?com.ibm.xtools.emf.core.signature <signature id="com.ibm.xtools.uml.msl.model" version="7.0.0"><feature description="" name="com.ibm.xtools.ruml.feature" url="" version="7.0.0"/></signature>?>
+<?com.ibm.xtools.emf.core.signature <signature id="com.ibm.xtools.mmi.ui.signatures.diagram" version="7.0.0"><feature description="" name="Rational Modeling Platform (com.ibm.xtools.rmp)" url="" version="7.0.0"/></signature>?>
+<uml:Model xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ecore="http://www.eclipse.org/emf/2002/Ecore" xmlns:notation="http://www.eclipse.org/gmf/runtime/1.0.0/notation" xmlns:uml="http://www.eclipse.org/uml2/2.0.0/UML" xmlns:umlnotation="http://www.ibm.com/xtools/1.5.2/Umlnotation" xmi:id="_xVh58ADJEd6QirVmKe_A6g" name="Blank Model">
+  <eAnnotations xmi:id="_xVh58QDJEd6QirVmKe_A6g" source="uml2.diagrams" references="_xVh58gDJEd6QirVmKe_A6g">
+    <contents xmi:type="notation:Diagram" xmi:id="_xVh58gDJEd6QirVmKe_A6g" type="Class" name="Main">
+      <children xmi:id="_5bMZggDJEd6QirVmKe_A6g">
+        <children xmi:id="_5bfUcADJEd6QirVmKe_A6g" type="ImageCompartment">
+          <layoutConstraint xmi:type="notation:Size" xmi:id="_5bfUcQDJEd6QirVmKe_A6g" width="1320" height="1320"/>
+        </children>
+        <children xmi:id="_5bfUcgDJEd6QirVmKe_A6g" type="Stereotype"/>
+        <children xmi:id="_5bpFcADJEd6QirVmKe_A6g" type="Name"/>
+        <children xmi:id="_5bpFcQDJEd6QirVmKe_A6g" type="Parent"/>
+        <children xmi:id="_5bpFcgDJEd6QirVmKe_A6g" type="AttributeCompartment">
+          <styles xmi:type="umlnotation:UMLListCompartmentStyle" xmi:id="_5bpFcwDJEd6QirVmKe_A6g"/>
+        </children>
+        <children xmi:id="_5bpFdADJEd6QirVmKe_A6g" type="OperationCompartment">
+          <styles xmi:type="umlnotation:UMLListCompartmentStyle" xmi:id="_5bpFdQDJEd6QirVmKe_A6g"/>
+        </children>
+        <styles xmi:type="umlnotation:UMLShapeStyle" xmi:id="_5bMZgwDJEd6QirVmKe_A6g" showStereotype="Label"/>
+        <element xmi:type="uml:Class" href="mmi:///#jsrctype%5Ename=Single%5Bjcu%5Ename=Single.java%5Bjpack%5Ename=hotel%5Bjsrcroot%5Esrcfolder=src%5Bproject%5Eid=hotel%5D%5D%5D%5D$uml.Class"/>
+        <layoutConstraint xmi:type="notation:Bounds" xmi:id="_5bMZhADJEd6QirVmKe_A6g" x="15147" y="49199"/>
+      </children>
+      <children xmi:id="_5bpFdgDJEd6QirVmKe_A6g">
+        <children xmi:id="_5bpFeQDJEd6QirVmKe_A6g" type="ImageCompartment">
+          <layoutConstraint xmi:type="notation:Size" xmi:id="_5bpFegDJEd6QirVmKe_A6g" width="1320" height="1320"/>
+        </children>
+        <children xmi:id="_5bpFewDJEd6QirVmKe_A6g" type="Stereotype"/>
+        <children xmi:id="_5bpFfADJEd6QirVmKe_A6g" type="Name"/>
+        <children xmi:id="_5bpFfQDJEd6QirVmKe_A6g" type="Parent"/>
+        <children xmi:id="_5bpFfgDJEd6QirVmKe_A6g" type="AttributeCompartment">
+          <styles xmi:type="umlnotation:UMLListCompartmentStyle" xmi:id="_5bpFfwDJEd6QirVmKe_A6g"/>
+        </children>
+        <children xmi:id="_5bpFgADJEd6QirVmKe_A6g" type="OperationCompartment">
+          <styles xmi:type="umlnotation:UMLListCompartmentStyle" xmi:id="_5bpFgQDJEd6QirVmKe_A6g"/>
+        </children>
+        <styles xmi:type="umlnotation:UMLShapeStyle" xmi:id="_5bpFdwDJEd6QirVmKe_A6g" showStereotype="Label"/>
+        <element xmi:type="uml:Class" href="mmi:///#jsrctype%5Ename=Unique%5Bjcu%5Ename=Unique.java%5Bjpack%5Ename=hotel%5Bjsrcroot%5Esrcfolder=src%5Bproject%5Eid=hotel%5D%5D%5D%5D$uml.Class"/>
+        <layoutConstraint xmi:type="notation:Bounds" xmi:id="_5bpFeADJEd6QirVmKe_A6g" x="36720" y="44394"/>
+      </children>
+      <children xmi:id="_5bpFggDJEd6QirVmKe_A6g">
+        <children xmi:id="_5bpFhQDJEd6QirVmKe_A6g" type="ImageCompartment">
+          <layoutConstraint xmi:type="notation:Size" xmi:id="_5bpFhgDJEd6QirVmKe_A6g" width="1320" height="1320"/>
+        </children>
+        <children xmi:id="_5bpFhwDJEd6QirVmKe_A6g" type="Stereotype"/>
+        <children xmi:id="_5bpFiADJEd6QirVmKe_A6g" type="Name"/>
+        <children xmi:id="_5bpFiQDJEd6QirVmKe_A6g" type="Parent"/>
+        <children xmi:id="_5bpFigDJEd6QirVmKe_A6g" type="AttributeCompartment">
+          <styles xmi:type="umlnotation:UMLListCompartmentStyle" xmi:id="_5bpFiwDJEd6QirVmKe_A6g"/>
+        </children>
+        <children xmi:id="_5bpFjADJEd6QirVmKe_A6g" type="OperationCompartment">
+          <styles xmi:type="umlnotation:UMLListCompartmentStyle" xmi:id="_5bpFjQDJEd6QirVmKe_A6g"/>
+        </children>
+        <styles xmi:type="umlnotation:UMLShapeStyle" xmi:id="_5bpFgwDJEd6QirVmKe_A6g" showStereotype="Label"/>
+        <element xmi:type="uml:Class" href="mmi:///#jsrctype%5Ename=Meal%5Bjcu%5Ename=Meal.java%5Bjpack%5Ename=hotel%5Bjsrcroot%5Esrcfolder=src%5Bproject%5Eid=hotel%5D%5D%5D%5D$uml.Class"/>
+        <layoutConstraint xmi:type="notation:Bounds" xmi:id="_5bpFhADJEd6QirVmKe_A6g" x="27205" y="49193"/>
+      </children>
+      <children xmi:id="_5bpFjgDJEd6QirVmKe_A6g">
+        <children xmi:id="_5bpFkQDJEd6QirVmKe_A6g" type="ImageCompartment">
+          <layoutConstraint xmi:type="notation:Size" xmi:id="_5bpFkgDJEd6QirVmKe_A6g" width="1320" height="1320"/>
+        </children>
+        <children xmi:id="_5bpFkwDJEd6QirVmKe_A6g" type="Stereotype"/>
+        <children xmi:id="_5bpFlADJEd6QirVmKe_A6g" type="Name"/>
+        <children xmi:id="_5bpFlQDJEd6QirVmKe_A6g" type="Parent"/>
+        <children xmi:id="_5bpFlgDJEd6QirVmKe_A6g" type="AttributeCompartment">
+          <styles xmi:type="umlnotation:UMLListCompartmentStyle" xmi:id="_5bpFlwDJEd6QirVmKe_A6g"/>
+        </children>
+        <children xmi:id="_5bpFmADJEd6QirVmKe_A6g" type="OperationCompartment">
+          <styles xmi:type="umlnotation:UMLListCompartmentStyle" xmi:id="_5bpFmQDJEd6QirVmKe_A6g"/>
+        </children>
+        <styles xmi:type="umlnotation:UMLShapeStyle" xmi:id="_5bpFjwDJEd6QirVmKe_A6g" showStereotype="Label"/>
+        <element xmi:type="uml:Class" href="mmi:///#jsrctype%5Ename=Suite%5Bjcu%5Ename=Suite.java%5Bjpack%5Ename=hotel%5Bjsrcroot%5Esrcfolder=src%5Bproject%5Eid=hotel%5D%5D%5D%5D$uml.Class"/>
+        <layoutConstraint xmi:type="notation:Bounds" xmi:id="_5bpFkADJEd6QirVmKe_A6g" x="19172" y="49203"/>
+      </children>
+      <children xmi:id="_5bpFmgDJEd6QirVmKe_A6g">
+        <children xmi:id="_5bpFnQDJEd6QirVmKe_A6g" type="ImageCompartment">
+          <layoutConstraint xmi:type="notation:Size" xmi:id="_5bpFngDJEd6QirVmKe_A6g" width="1320" height="1320"/>
+        </children>
+        <children xmi:id="_5bpFnwDJEd6QirVmKe_A6g" type="Stereotype"/>
+        <children xmi:id="_5bpFoADJEd6QirVmKe_A6g" type="Name"/>
+        <children xmi:id="_5bpFoQDJEd6QirVmKe_A6g" type="Parent"/>
+        <children xmi:id="_5bpFogDJEd6QirVmKe_A6g" type="AttributeCompartment">
+          <styles xmi:type="umlnotation:UMLListCompartmentStyle" xmi:id="_5bpFowDJEd6QirVmKe_A6g"/>
+        </children>
+        <children xmi:id="_5byPYADJEd6QirVmKe_A6g" type="OperationCompartment">
+          <styles xmi:type="umlnotation:UMLListCompartmentStyle" xmi:id="_5byPYQDJEd6QirVmKe_A6g"/>
+        </children>
+        <styles xmi:type="umlnotation:UMLShapeStyle" xmi:id="_5bpFmwDJEd6QirVmKe_A6g" showStereotype="Label"/>
+        <element xmi:type="uml:Class" href="mmi:///#jsrctype%5Ename=Located%5Bjcu%5Ename=Located.java%5Bjpack%5Ename=hotel%5Bjsrcroot%5Esrcfolder=src%5Bproject%5Eid=hotel%5D%5D%5D%5D$uml.Class"/>
+        <layoutConstraint xmi:type="notation:Bounds" xmi:id="_5bpFnADJEd6QirVmKe_A6g" x="36486" y="49186"/>
+      </children>
+      <children xmi:id="_5byPYgDJEd6QirVmKe_A6g">
+        <children xmi:id="_5byPZQDJEd6QirVmKe_A6g" type="ImageCompartment">
+          <layoutConstraint xmi:type="notation:Size" xmi:id="_5byPZgDJEd6QirVmKe_A6g" width="1320" height="1320"/>
+        </children>
+        <children xmi:id="_5byPZwDJEd6QirVmKe_A6g" type="Stereotype"/>
+        <children xmi:id="_5byPaADJEd6QirVmKe_A6g" type="Kind"/>
+        <children xmi:id="_5byPaQDJEd6QirVmKe_A6g" type="Name"/>
+        <children xmi:id="_5byPagDJEd6QirVmKe_A6g" type="Parent"/>
+        <children xmi:id="_5byPawDJEd6QirVmKe_A6g" type="EnumerationCompartment">
+          <styles xmi:type="umlnotation:UMLListCompartmentStyle" xmi:id="_5byPbADJEd6QirVmKe_A6g"/>
+        </children>
+        <children xmi:id="_5byPbQDJEd6QirVmKe_A6g" visible="false" type="AttributeCompartment">
+          <styles xmi:type="umlnotation:UMLListCompartmentStyle" xmi:id="_5byPbgDJEd6QirVmKe_A6g"/>
+        </children>
+        <children xmi:id="_5byPbwDJEd6QirVmKe_A6g" visible="false" type="OperationCompartment">
+          <styles xmi:type="umlnotation:UMLListCompartmentStyle" xmi:id="_5byPcADJEd6QirVmKe_A6g"/>
+        </children>
+        <styles xmi:type="umlnotation:UMLShapeStyle" xmi:id="_5byPYwDJEd6QirVmKe_A6g" showStereotype="Label"/>
+        <element xmi:type="uml:Enumeration" href="mmi:///#jsrctype%5Ename=Type%5Bjsrctype%5Ename=RoomType%5Bjcu%5Ename=RoomType.java%5Bjpack%5Ename=hotel%5Bjsrcroot%5Esrcfolder=src%5Bproject%5Eid=hotel%5D%5D%5D%5D%5D$uml.Enumeration"/>
+        <layoutConstraint xmi:type="notation:Bounds" xmi:id="_5byPZADJEd6QirVmKe_A6g" x="10964" y="49196"/>
+      </children>
+      <children xmi:id="_5byPcQDJEd6QirVmKe_A6g">
+        <children xmi:id="_5byPdADJEd6QirVmKe_A6g" type="ImageCompartment">
+          <layoutConstraint xmi:type="notation:Size" xmi:id="_5byPdQDJEd6QirVmKe_A6g" width="1320" height="1320"/>
+        </children>
+        <children xmi:id="_5byPdgDJEd6QirVmKe_A6g" type="Stereotype"/>
+        <children xmi:id="_5byPdwDJEd6QirVmKe_A6g" type="Name"/>
+        <children xmi:id="_5byPeADJEd6QirVmKe_A6g" type="Parent"/>
+        <children xmi:id="_5byPeQDJEd6QirVmKe_A6g" type="AttributeCompartment">
+          <styles xmi:type="umlnotation:UMLListCompartmentStyle" xmi:id="_5byPegDJEd6QirVmKe_A6g"/>
+        </children>
+        <children xmi:id="_5byPewDJEd6QirVmKe_A6g" type="OperationCompartment">
+          <styles xmi:type="umlnotation:UMLListCompartmentStyle" xmi:id="_5byPfADJEd6QirVmKe_A6g"/>
+        </children>
+        <styles xmi:type="umlnotation:UMLShapeStyle" xmi:id="_5byPcgDJEd6QirVmKe_A6g" showStereotype="Label"/>
+        <element xmi:type="uml:Class" href="mmi:///#jsrctype%5Ename=Customer%5Bjcu%5Ename=Customer.java%5Bjpack%5Ename=hotel%5Bjsrcroot%5Esrcfolder=src%5Bproject%5Eid=hotel%5D%5D%5D%5D$uml.Class"/>
+        <layoutConstraint xmi:type="notation:Bounds" xmi:id="_5byPcwDJEd6QirVmKe_A6g" x="40289" y="38305"/>
+      </children>
+      <children xmi:id="_5byPfQDJEd6QirVmKe_A6g">
+        <children xmi:id="_5byPgADJEd6QirVmKe_A6g" type="ImageCompartment">
+          <layoutConstraint xmi:type="notation:Size" xmi:id="_5byPgQDJEd6QirVmKe_A6g" width="1320" height="1320"/>
+        </children>
+        <children xmi:id="_5byPggDJEd6QirVmKe_A6g" type="Stereotype"/>
+        <children xmi:id="_5byPgwDJEd6QirVmKe_A6g" type="Name"/>
+        <children xmi:id="_5byPhADJEd6QirVmKe_A6g" type="Parent"/>
+        <children xmi:id="_5byPhQDJEd6QirVmKe_A6g" type="AttributeCompartment">
+          <styles xmi:type="umlnotation:UMLListCompartmentStyle" xmi:id="_5byPhgDJEd6QirVmKe_A6g"/>
+        </children>
+        <children xmi:id="_5byPhwDJEd6QirVmKe_A6g" type="OperationCompartment">
+          <styles xmi:type="umlnotation:UMLListCompartmentStyle" xmi:id="_5byPiADJEd6QirVmKe_A6g"/>
+        </children>
+        <styles xmi:type="umlnotation:UMLShapeStyle" xmi:id="_5byPfgDJEd6QirVmKe_A6g" showStereotype="Label"/>
+        <element xmi:type="uml:Class" href="mmi:///#jsrctype%5Ename=Hotel%5Bjcu%5Ename=Hotel.java%5Bjpack%5Ename=hotel%5Bjsrcroot%5Esrcfolder=src%5Bproject%5Eid=hotel%5D%5D%5D%5D$uml.Class"/>
+        <layoutConstraint xmi:type="notation:Bounds" xmi:id="_5byPfwDJEd6QirVmKe_A6g" x="22202" y="21197"/>
+      </children>
+      <children xmi:id="_5byPiQDJEd6QirVmKe_A6g">
+        <children xmi:id="_5byPjADJEd6QirVmKe_A6g" type="ImageCompartment">
+          <layoutConstraint xmi:type="notation:Size" xmi:id="_5byPjQDJEd6QirVmKe_A6g" width="1320" height="1320"/>
+        </children>
+        <children xmi:id="_5byPjgDJEd6QirVmKe_A6g" type="Stereotype"/>
+        <children xmi:id="_5byPjwDJEd6QirVmKe_A6g" type="Name"/>
+        <children xmi:id="_5byPkADJEd6QirVmKe_A6g" type="Parent"/>
+        <children xmi:id="_5byPkQDJEd6QirVmKe_A6g" type="AttributeCompartment">
+          <styles xmi:type="umlnotation:UMLListCompartmentStyle" xmi:id="_5byPkgDJEd6QirVmKe_A6g"/>
+        </children>
+        <children xmi:id="_5byPkwDJEd6QirVmKe_A6g" type="OperationCompartment">
+          <styles xmi:type="umlnotation:UMLListCompartmentStyle" xmi:id="_5byPlADJEd6QirVmKe_A6g"/>
+        </children>
+        <styles xmi:type="umlnotation:UMLShapeStyle" xmi:id="_5byPigDJEd6QirVmKe_A6g" showStereotype="Label"/>
+        <element xmi:type="uml:Class" href="mmi:///#jsrctype%5Ename=BookingSystem%5Bjcu%5Ename=BookingSystem.java%5Bjpack%5Ename=hotel%5Bjsrcroot%5Esrcfolder=src%5Bproject%5Eid=hotel%5D%5D%5D%5D$uml.Class"/>
+        <layoutConstraint xmi:type="notation:Bounds" xmi:id="_5byPiwDJEd6QirVmKe_A6g" x="13631" y="5706"/>
+      </children>
+      <children xmi:id="_5byPlQDJEd6QirVmKe_A6g">
+        <children xmi:id="_5byPmADJEd6QirVmKe_A6g" type="ImageCompartment">
+          <layoutConstraint xmi:type="notation:Size" xmi:id="_5byPmQDJEd6QirVmKe_A6g" width="1320" height="1320"/>
+        </children>
+        <children xmi:id="_5byPmgDJEd6QirVmKe_A6g" type="Stereotype"/>
+        <children xmi:id="_5byPmwDJEd6QirVmKe_A6g" type="Name"/>
+        <children xmi:id="_5byPnADJEd6QirVmKe_A6g" type="Parent"/>
+        <children xmi:id="_5byPnQDJEd6QirVmKe_A6g" type="AttributeCompartment">
+          <styles xmi:type="umlnotation:UMLListCompartmentStyle" xmi:id="_5byPngDJEd6QirVmKe_A6g"/>
+        </children>
+        <children xmi:id="_5byPnwDJEd6QirVmKe_A6g" type="OperationCompartment">
+          <styles xmi:type="umlnotation:UMLListCompartmentStyle" xmi:id="_5byPoADJEd6QirVmKe_A6g"/>
+        </children>
+        <styles xmi:type="umlnotation:UMLShapeStyle" xmi:id="_5byPlgDJEd6QirVmKe_A6g" showStereotype="Label"/>
+        <element xmi:type="uml:Class" href="mmi:///#jsrctype%5Ename=Drink%5Bjcu%5Ename=Drink.java%5Bjpack%5Ename=hotel%5Bjsrcroot%5Esrcfolder=src%5Bproject%5Eid=hotel%5D%5D%5D%5D$uml.Class"/>
+        <layoutConstraint xmi:type="notation:Bounds" xmi:id="_5byPlwDJEd6QirVmKe_A6g" x="31244" y="49210"/>
+      </children>
+      <children xmi:id="_5byPoQDJEd6QirVmKe_A6g">
+        <children xmi:id="_5byPpADJEd6QirVmKe_A6g" type="ImageCompartment">
+          <layoutConstraint xmi:type="notation:Size" xmi:id="_5byPpQDJEd6QirVmKe_A6g" width="1320" height="1320"/>
+        </children>
+        <children xmi:id="_5byPpgDJEd6QirVmKe_A6g" type="Stereotype"/>
+        <children xmi:id="_5byPpwDJEd6QirVmKe_A6g" type="Name"/>
+        <children xmi:id="_5byPqADJEd6QirVmKe_A6g" type="Parent"/>
+        <children xmi:id="_5byPqQDJEd6QirVmKe_A6g" type="AttributeCompartment">
+          <styles xmi:type="umlnotation:UMLListCompartmentStyle" xmi:id="_5byPqgDJEd6QirVmKe_A6g"/>
+        </children>
+        <children xmi:id="_5byPqwDJEd6QirVmKe_A6g" type="OperationCompartment">
+          <styles xmi:type="umlnotation:UMLListCompartmentStyle" xmi:id="_5byPrADJEd6QirVmKe_A6g"/>
+        </children>
+        <styles xmi:type="umlnotation:UMLShapeStyle" xmi:id="_5byPogDJEd6QirVmKe_A6g" showStereotype="Label"/>
+        <element xmi:type="uml:Class" href="mmi:///#jsrctype%5Ename=AdditionalItem%5Bjcu%5Ename=AdditionalItem.java%5Bjpack%5Ename=hotel%5Bjsrcroot%5Esrcfolder=src%5Bproject%5Eid=hotel%5D%5D%5D%5D$uml.Class"/>
+        <layoutConstraint xmi:type="notation:Bounds" xmi:id="_5byPowDJEd6QirVmKe_A6g" x="26598" y="44378"/>
+      </children>
+      <children xmi:id="_5byPrQDJEd6QirVmKe_A6g">
+        <children xmi:id="_5byPsADJEd6QirVmKe_A6g" type="ImageCompartment">
+          <layoutConstraint xmi:type="notation:Size" xmi:id="_5byPsQDJEd6QirVmKe_A6g" width="1320" height="1320"/>
+        </children>
+        <children xmi:id="_5byPsgDJEd6QirVmKe_A6g" type="Stereotype"/>
+        <children xmi:id="_5byPswDJEd6QirVmKe_A6g" type="Name"/>
+        <children xmi:id="_5byPtADJEd6QirVmKe_A6g" type="Parent"/>
+        <children xmi:id="_5byPtQDJEd6QirVmKe_A6g" type="AttributeCompartment">
+          <styles xmi:type="umlnotation:UMLListCompartmentStyle" xmi:id="_5byPtgDJEd6QirVmKe_A6g"/>
+        </children>
+        <children xmi:id="_5byPtwDJEd6QirVmKe_A6g" type="OperationCompartment">
+          <styles xmi:type="umlnotation:UMLListCompartmentStyle" xmi:id="_5byPuADJEd6QirVmKe_A6g"/>
+        </children>
+        <styles xmi:type="umlnotation:UMLShapeStyle" xmi:id="_5byPrgDJEd6QirVmKe_A6g" showStereotype="Label"/>
+        <element xmi:type="uml:Class" href="mmi:///#jsrctype%5Ename=Booking%5Bjcu%5Ename=Booking.java%5Bjpack%5Ename=hotel%5Bjsrcroot%5Esrcfolder=src%5Bproject%5Eid=hotel%5D%5D%5D%5D$uml.Class"/>
+        <layoutConstraint xmi:type="notation:Bounds" xmi:id="_5byPrwDJEd6QirVmKe_A6g" x="28671" y="21210"/>
+      </children>
+      <children xmi:id="_5byPuQDJEd6QirVmKe_A6g">
+        <children xmi:id="_5b8AYADJEd6QirVmKe_A6g" type="ImageCompartment">
+          <layoutConstraint xmi:type="notation:Size" xmi:id="_5b8AYQDJEd6QirVmKe_A6g" width="1320" height="1320"/>
+        </children>
+        <children xmi:id="_5b8AYgDJEd6QirVmKe_A6g" type="Stereotype"/>
+        <children xmi:id="_5b8AYwDJEd6QirVmKe_A6g" type="Name"/>
+        <children xmi:id="_5b8AZADJEd6QirVmKe_A6g" type="Parent"/>
+        <children xmi:id="_5b8AZQDJEd6QirVmKe_A6g" type="AttributeCompartment">
+          <styles xmi:type="umlnotation:UMLListCompartmentStyle" xmi:id="_5b8AZgDJEd6QirVmKe_A6g"/>
+        </children>
+        <children xmi:id="_5b8AZwDJEd6QirVmKe_A6g" type="OperationCompartment">
+          <styles xmi:type="umlnotation:UMLListCompartmentStyle" xmi:id="_5b8AaADJEd6QirVmKe_A6g"/>
+        </children>
+        <styles xmi:type="umlnotation:UMLShapeStyle" xmi:id="_5byPugDJEd6QirVmKe_A6g" showStereotype="Label"/>
+        <element xmi:type="uml:Class" href="mmi:///#jsrctype%5Ename=Double%5Bjcu%5Ename=Double.java%5Bjpack%5Ename=hotel%5Bjsrcroot%5Esrcfolder=src%5Bproject%5Eid=hotel%5D%5D%5D%5D$uml.Class"/>
+        <layoutConstraint xmi:type="notation:Bounds" xmi:id="_5byPuwDJEd6QirVmKe_A6g" x="23178" y="49187"/>
+      </children>
+      <children xmi:id="_5b8AaQDJEd6QirVmKe_A6g">
+        <children xmi:id="_5b8AbADJEd6QirVmKe_A6g" type="ImageCompartment">
+          <layoutConstraint xmi:type="notation:Size" xmi:id="_5b8AbQDJEd6QirVmKe_A6g" width="1320" height="1320"/>
+        </children>
+        <children xmi:id="_5b8AbgDJEd6QirVmKe_A6g" type="Stereotype"/>
+        <children xmi:id="_5b8AbwDJEd6QirVmKe_A6g" type="Name"/>
+        <children xmi:id="_5b8AcADJEd6QirVmKe_A6g" type="Parent"/>
+        <children xmi:id="_5b8AcQDJEd6QirVmKe_A6g" type="AttributeCompartment">
+          <styles xmi:type="umlnotation:UMLListCompartmentStyle" xmi:id="_5b8AcgDJEd6QirVmKe_A6g"/>
+        </children>
+        <children xmi:id="_5b8AcwDJEd6QirVmKe_A6g" type="OperationCompartment">
+          <styles xmi:type="umlnotation:UMLListCompartmentStyle" xmi:id="_5b8AdADJEd6QirVmKe_A6g"/>
+        </children>
+        <styles xmi:type="umlnotation:UMLShapeStyle" xmi:id="_5b8AagDJEd6QirVmKe_A6g" showStereotype="Label"/>
+        <element xmi:type="uml:Class" href="mmi:///#jsrctype%5Ename=RoomType%5Bjcu%5Ename=RoomType.java%5Bjpack%5Ename=hotel%5Bjsrcroot%5Esrcfolder=src%5Bproject%5Eid=hotel%5D%5D%5D%5D$uml.Class"/>
+        <layoutConstraint xmi:type="notation:Bounds" xmi:id="_5b8AawDJEd6QirVmKe_A6g" x="20357" y="44381"/>
+      </children>
+      <children xmi:id="_5b8AdQDJEd6QirVmKe_A6g">
+        <children xmi:id="_5b8AeADJEd6QirVmKe_A6g" type="ImageCompartment">
+          <layoutConstraint xmi:type="notation:Size" xmi:id="_5b8AeQDJEd6QirVmKe_A6g" width="1320" height="1320"/>
+        </children>
+        <children xmi:id="_5b8AegDJEd6QirVmKe_A6g" type="Stereotype"/>
+        <children xmi:id="_5b8AewDJEd6QirVmKe_A6g" type="Name"/>
+        <children xmi:id="_5b8AfADJEd6QirVmKe_A6g" type="Parent"/>
+        <children xmi:id="_5b8AfQDJEd6QirVmKe_A6g" type="AttributeCompartment">
+          <styles xmi:type="umlnotation:UMLListCompartmentStyle" xmi:id="_5b8AfgDJEd6QirVmKe_A6g"/>
+        </children>
+        <children xmi:id="_5b8AfwDJEd6QirVmKe_A6g" type="OperationCompartment">
+          <styles xmi:type="umlnotation:UMLListCompartmentStyle" xmi:id="_5b8AgADJEd6QirVmKe_A6g"/>
+        </children>
+        <styles xmi:type="umlnotation:UMLShapeStyle" xmi:id="_5b8AdgDJEd6QirVmKe_A6g" showStereotype="Label"/>
+        <element xmi:type="uml:Class" href="mmi:///#jsrctype%5Ename=Spa%5Bjcu%5Ename=Spa.java%5Bjpack%5Ename=hotel%5Bjsrcroot%5Esrcfolder=src%5Bproject%5Eid=hotel%5D%5D%5D%5D$uml.Class"/>
+        <layoutConstraint xmi:type="notation:Bounds" xmi:id="_5b8AdwDJEd6QirVmKe_A6g" x="26743" y="38306"/>
+      </children>
+      <children xmi:id="_5b8AgQDJEd6QirVmKe_A6g">
+        <children xmi:id="_5b8AhADJEd6QirVmKe_A6g" type="ImageCompartment">
+          <layoutConstraint xmi:type="notation:Size" xmi:id="_5b8AhQDJEd6QirVmKe_A6g" width="1320" height="1320"/>
+        </children>
+        <children xmi:id="_5b8AhgDJEd6QirVmKe_A6g" type="Stereotype"/>
+        <children xmi:id="_5b8AhwDJEd6QirVmKe_A6g" type="Name"/>
+        <children xmi:id="_5b8AiADJEd6QirVmKe_A6g" type="Parent"/>
+        <children xmi:id="_5b8AiQDJEd6QirVmKe_A6g" type="AttributeCompartment">
+          <styles xmi:type="umlnotation:UMLListCompartmentStyle" xmi:id="_5b8AigDJEd6QirVmKe_A6g"/>
+        </children>
+        <children xmi:id="_5b8AiwDJEd6QirVmKe_A6g" type="OperationCompartment">
+          <styles xmi:type="umlnotation:UMLListCompartmentStyle" xmi:id="_5b8AjADJEd6QirVmKe_A6g"/>
+        </children>
+        <styles xmi:type="umlnotation:UMLShapeStyle" xmi:id="_5b8AggDJEd6QirVmKe_A6g" showStereotype="Label"/>
+        <element xmi:type="uml:Class" href="mmi:///#jsrctype%5Ename=Family%5Bjcu%5Ename=Family.java%5Bjpack%5Ename=hotel%5Bjsrcroot%5Esrcfolder=src%5Bproject%5Eid=hotel%5D%5D%5D%5D$uml.Class"/>
+        <layoutConstraint xmi:type="notation:Bounds" xmi:id="_5b8AgwDJEd6QirVmKe_A6g" x="20615" y="38290"/>
+      </children>
+      <children xmi:id="_5b8AjQDJEd6QirVmKe_A6g">
+        <children xmi:id="_5b8AkADJEd6QirVmKe_A6g" type="ImageCompartment">
+          <layoutConstraint xmi:type="notation:Size" xmi:id="_5b8AkQDJEd6QirVmKe_A6g" width="1320" height="1320"/>
+        </children>
+        <children xmi:id="_5b8AkgDJEd6QirVmKe_A6g" type="Stereotype"/>
+        <children xmi:id="_5b8AkwDJEd6QirVmKe_A6g" type="Name"/>
+        <children xmi:id="_5b8AlADJEd6QirVmKe_A6g" type="Parent"/>
+        <children xmi:id="_5b8AlQDJEd6QirVmKe_A6g" type="AttributeCompartment">
+          <styles xmi:type="umlnotation:UMLListCompartmentStyle" xmi:id="_5b8AlgDJEd6QirVmKe_A6g"/>
+        </children>
+        <children xmi:id="_5b8AlwDJEd6QirVmKe_A6g" type="OperationCompartment">
+          <styles xmi:type="umlnotation:UMLListCompartmentStyle" xmi:id="_5b8AmADJEd6QirVmKe_A6g"/>
+        </children>
+        <styles xmi:type="umlnotation:UMLShapeStyle" xmi:id="_5b8AjgDJEd6QirVmKe_A6g" showStereotype="Label"/>
+        <element xmi:type="uml:Class" href="mmi:///#jsrctype%5Ename=Room%5Bjcu%5Ename=Room.java%5Bjpack%5Ename=hotel%5Bjsrcroot%5Esrcfolder=src%5Bproject%5Eid=hotel%5D%5D%5D%5D$uml.Class"/>
+        <layoutConstraint xmi:type="notation:Bounds" xmi:id="_5b8AjwDJEd6QirVmKe_A6g" x="33537" y="38300"/>
+      </children>
+      <styles xmi:type="umlnotation:UMLDiagramStyle" xmi:id="_xVh58wDJEd6QirVmKe_A6g"/>
+      <edges xmi:id="_50hfgADJEd6QirVmKe_A6g" source="_5bMZggDJEd6QirVmKe_A6g" target="_5b8AaQDJEd6QirVmKe_A6g">
+        <children xmi:id="_50hfgwDJEd6QirVmKe_A6g" type="NameLabel">
+          <children xmi:id="_50hfhQDJEd6QirVmKe_A6g" type="Stereotype"/>
+          <children xmi:id="_50hfhgDJEd6QirVmKe_A6g" type="Name"/>
+          <layoutConstraint xmi:type="notation:Bounds" xmi:id="_50hfhADJEd6QirVmKe_A6g" y="-186"/>
+        </children>
+        <styles xmi:type="umlnotation:UMLConnectorStyle" xmi:id="_50hfgQDJEd6QirVmKe_A6g" routing="Rectilinear" showStereotype="Text"/>
+        <element xmi:type="uml:Generalization" href="mmi:///#jgen%5Bjsrctype%5Ename=Single%5Bjcu%5Ename=Single.java%5Bjpack%5Ename=hotel%5Bjsrcroot%5Esrcfolder=src%5Bproject%5Eid=hotel%5D%5D%5D%5D%5D%5Bjsrctype%5Ename=RoomType%5Bjcu%5Ename=RoomType.java%5Bjpack%5Ename=hotel%5Bjsrcroot%5Esrcfolder=src%5Bproject%5Eid=hotel%5D%5D%5D%5D%5D$uml.Generalization"/>
+        <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_50hfggDJEd6QirVmKe_A6g" points="[0, -2037, -5490, 3201]$[5477, -3625, -13, 1613]"/>
+      </edges>
+      <edges xmi:id="_50rQgADJEd6QirVmKe_A6g" source="_5bMZggDJEd6QirVmKe_A6g" target="_5b8AaQDJEd6QirVmKe_A6g">
+        <children xmi:id="_50rQgwDJEd6QirVmKe_A6g" type="KindLabel">
+          <children xmi:id="_50rQhQDJEd6QirVmKe_A6g" type="Stereotype"/>
+          <children xmi:id="_50rQhwDJEd6QirVmKe_A6g" type="Kind"/>
+          <children xmi:id="_50rQhgDJEd6QirVmKe_A6g" type="Name"/>
+          <layoutConstraint xmi:type="notation:Bounds" xmi:id="_50rQhADJEd6QirVmKe_A6g" y="-186"/>
+        </children>
+        <styles xmi:type="umlnotation:UMLConnectorStyle" xmi:id="_50rQgQDJEd6QirVmKe_A6g" routing="Rectilinear" showStereotype="Text"/>
+        <element xmi:type="uml:Usage" href="mmi:///#jdep%5Bjsrctype%5Ename=Single%5Bjcu%5Ename=Single.java%5Bjpack%5Ename=hotel%5Bjsrcroot%5Esrcfolder=src%5Bproject%5Eid=hotel%5D%5D%5D%5D%5D%5Bjsrctype%5Ename=RoomType%5Bjcu%5Ename=RoomType.java%5Bjpack%5Ename=hotel%5Bjsrcroot%5Esrcfolder=src%5Bproject%5Eid=hotel%5D%5D%5D%5D%5D$uml.Usage"/>
+        <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_50rQggDJEd6QirVmKe_A6g" points="[0, -2037, -5490, 3201]$[5477, -3625, -13, 1613]"/>
+      </edges>
+      <edges xmi:id="_50rQiADJEd6QirVmKe_A6g" source="_5bpFggDJEd6QirVmKe_A6g" target="_5byPoQDJEd6QirVmKe_A6g">
+        <children xmi:id="_50rQiwDJEd6QirVmKe_A6g" type="NameLabel">
+          <children xmi:id="_50rQjQDJEd6QirVmKe_A6g" type="Stereotype"/>
+          <children xmi:id="_50rQjgDJEd6QirVmKe_A6g" type="Name"/>
+          <layoutConstraint xmi:type="notation:Bounds" xmi:id="_50rQjADJEd6QirVmKe_A6g" y="-186"/>
+        </children>
+        <styles xmi:type="umlnotation:UMLConnectorStyle" xmi:id="_50rQiQDJEd6QirVmKe_A6g" routing="Rectilinear" showStereotype="Text"/>
+        <element xmi:type="uml:Generalization" href="mmi:///#jgen%5Bjsrctype%5Ename=Meal%5Bjcu%5Ename=Meal.java%5Bjpack%5Ename=hotel%5Bjsrcroot%5Esrcfolder=src%5Bproject%5Eid=hotel%5D%5D%5D%5D%5D%5Bjsrctype%5Ename=AdditionalItem%5Bjcu%5Ename=AdditionalItem.java%5Bjpack%5Ename=hotel%5Bjsrcroot%5Esrcfolder=src%5Bproject%5Eid=hotel%5D%5D%5D%5D%5D$uml.Generalization"/>
+        <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_50rQigDJEd6QirVmKe_A6g" points="[0, -2037, -13, 3201]$[0, -3625, -13, 1613]"/>
+      </edges>
+      <edges xmi:id="_50rQjwDJEd6QirVmKe_A6g" source="_5bpFggDJEd6QirVmKe_A6g" target="_5byPoQDJEd6QirVmKe_A6g">
+        <children xmi:id="_50-LcADJEd6QirVmKe_A6g" type="KindLabel">
+          <children xmi:id="_50-LcgDJEd6QirVmKe_A6g" type="Stereotype"/>
+          <children xmi:id="_50-LdADJEd6QirVmKe_A6g" type="Kind"/>
+          <children xmi:id="_50-LcwDJEd6QirVmKe_A6g" type="Name"/>
+          <layoutConstraint xmi:type="notation:Bounds" xmi:id="_50-LcQDJEd6QirVmKe_A6g" y="-186"/>
+        </children>
+        <styles xmi:type="umlnotation:UMLConnectorStyle" xmi:id="_50rQkADJEd6QirVmKe_A6g" routing="Rectilinear" showStereotype="Text"/>
+        <element xmi:type="uml:Usage" href="mmi:///#jdep%5Bjsrctype%5Ename=Meal%5Bjcu%5Ename=Meal.java%5Bjpack%5Ename=hotel%5Bjsrcroot%5Esrcfolder=src%5Bproject%5Eid=hotel%5D%5D%5D%5D%5D%5Bjsrctype%5Ename=AdditionalItem%5Bjcu%5Ename=AdditionalItem.java%5Bjpack%5Ename=hotel%5Bjsrcroot%5Esrcfolder=src%5Bproject%5Eid=hotel%5D%5D%5D%5D%5D$uml.Usage"/>
+        <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_50rQkQDJEd6QirVmKe_A6g" points="[0, -2037, -13, 3201]$[0, -3625, -13, 1613]"/>
+      </edges>
+      <edges xmi:id="_50-LdQDJEd6QirVmKe_A6g" source="_5bpFjgDJEd6QirVmKe_A6g" target="_5b8AaQDJEd6QirVmKe_A6g">
+        <children xmi:id="_50-LeADJEd6QirVmKe_A6g" type="KindLabel">
+          <children xmi:id="_50-LegDJEd6QirVmKe_A6g" type="Stereotype"/>
+          <children xmi:id="_50-LfADJEd6QirVmKe_A6g" type="Kind"/>
+          <children xmi:id="_50-LewDJEd6QirVmKe_A6g" type="Name"/>
+          <layoutConstraint xmi:type="notation:Bounds" xmi:id="_50-LeQDJEd6QirVmKe_A6g" y="-186"/>
+        </children>
+        <styles xmi:type="umlnotation:UMLConnectorStyle" xmi:id="_50-LdgDJEd6QirVmKe_A6g" routing="Rectilinear" showStereotype="Text"/>
+        <element xmi:type="uml:Usage" href="mmi:///#jdep%5Bjsrctype%5Ename=Suite%5Bjcu%5Ename=Suite.java%5Bjpack%5Ename=hotel%5Bjsrcroot%5Esrcfolder=src%5Bproject%5Eid=hotel%5D%5D%5D%5D%5D%5Bjsrctype%5Ename=RoomType%5Bjcu%5Ename=RoomType.java%5Bjpack%5Ename=hotel%5Bjsrcroot%5Esrcfolder=src%5Bproject%5Eid=hotel%5D%5D%5D%5D%5D$uml.Usage"/>
+        <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_50-LdwDJEd6QirVmKe_A6g" points="[0, -2037, -1469, 3201]$[1456, -3625, -13, 1613]"/>
+      </edges>
+      <edges xmi:id="_50-LfQDJEd6QirVmKe_A6g" source="_5bpFjgDJEd6QirVmKe_A6g" target="_5b8AaQDJEd6QirVmKe_A6g">
+        <children xmi:id="_50-LgADJEd6QirVmKe_A6g" type="NameLabel">
+          <children xmi:id="_50-LggDJEd6QirVmKe_A6g" type="Stereotype"/>
+          <children xmi:id="_50-LgwDJEd6QirVmKe_A6g" type="Name"/>
+          <layoutConstraint xmi:type="notation:Bounds" xmi:id="_50-LgQDJEd6QirVmKe_A6g" y="-186"/>
+        </children>
+        <styles xmi:type="umlnotation:UMLConnectorStyle" xmi:id="_50-LfgDJEd6QirVmKe_A6g" routing="Rectilinear" showStereotype="Text"/>
+        <element xmi:type="uml:Generalization" href="mmi:///#jgen%5Bjsrctype%5Ename=Suite%5Bjcu%5Ename=Suite.java%5Bjpack%5Ename=hotel%5Bjsrcroot%5Esrcfolder=src%5Bproject%5Eid=hotel%5D%5D%5D%5D%5D%5Bjsrctype%5Ename=RoomType%5Bjcu%5Ename=RoomType.java%5Bjpack%5Ename=hotel%5Bjsrcroot%5Esrcfolder=src%5Bproject%5Eid=hotel%5D%5D%5D%5D%5D$uml.Generalization"/>
+        <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_50-LfwDJEd6QirVmKe_A6g" points="[0, -2037, -1469, 3201]$[1456, -3625, -13, 1613]"/>
+      </edges>
+      <edges xmi:id="_50-LhADJEd6QirVmKe_A6g" source="_5bpFmgDJEd6QirVmKe_A6g" target="_5bpFdgDJEd6QirVmKe_A6g">
+        <children xmi:id="_51H8cADJEd6QirVmKe_A6g" type="NameLabel">
+          <children xmi:id="_51H8cgDJEd6QirVmKe_A6g" type="Stereotype"/>
+          <children xmi:id="_51H8cwDJEd6QirVmKe_A6g" type="Name"/>
+          <layoutConstraint xmi:type="notation:Bounds" xmi:id="_51H8cQDJEd6QirVmKe_A6g" y="-186"/>
+        </children>
+        <styles xmi:type="umlnotation:UMLConnectorStyle" xmi:id="_50-LhQDJEd6QirVmKe_A6g" routing="Rectilinear" showStereotype="Text"/>
+        <element xmi:type="uml:Generalization" href="mmi:///#jgen%5Bjsrctype%5Ename=Located%5Bjcu%5Ename=Located.java%5Bjpack%5Ename=hotel%5Bjsrcroot%5Esrcfolder=src%5Bproject%5Eid=hotel%5D%5D%5D%5D%5D%5Bjsrctype%5Ename=Unique%5Bjcu%5Ename=Unique.java%5Bjpack%5Ename=hotel%5Bjsrcroot%5Esrcfolder=src%5Bproject%5Eid=hotel%5D%5D%5D%5D%5D$uml.Generalization"/>
+        <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_50-LhgDJEd6QirVmKe_A6g" points="[-1, -2037, -13, 3201]$[-1, -3625, -13, 1613]"/>
+      </edges>
+      <edges xmi:id="_51H8dADJEd6QirVmKe_A6g" source="_5byPcQDJEd6QirVmKe_A6g" target="_5bpFmgDJEd6QirVmKe_A6g">
+        <children xmi:id="_51H8dwDJEd6QirVmKe_A6g" type="NameLabel">
+          <children xmi:id="_51H8eQDJEd6QirVmKe_A6g" type="Stereotype"/>
+          <children xmi:id="_51H8egDJEd6QirVmKe_A6g" type="Name"/>
+          <layoutConstraint xmi:type="notation:Bounds" xmi:id="_51H8eADJEd6QirVmKe_A6g" y="-186"/>
+        </children>
+        <styles xmi:type="umlnotation:UMLConnectorStyle" xmi:id="_51H8dQDJEd6QirVmKe_A6g" routing="Rectilinear" showStereotype="Text"/>
+        <element xmi:type="uml:Generalization" href="mmi:///#jgen%5Bjsrctype%5Ename=Customer%5Bjcu%5Ename=Customer.java%5Bjpack%5Ename=hotel%5Bjsrcroot%5Esrcfolder=src%5Bproject%5Eid=hotel%5D%5D%5D%5D%5D%5Bjsrctype%5Ename=Located%5Bjcu%5Ename=Located.java%5Bjpack%5Ename=hotel%5Bjsrcroot%5Esrcfolder=src%5Bproject%5Eid=hotel%5D%5D%5D%5D%5D$uml.Generalization"/>
+        <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_51H8dgDJEd6QirVmKe_A6g" points="[-1, 2249, 3597, -8440]$[-569, 5451, 3029, -5238]$[-3599, 8652, -1, -2037]"/>
+      </edges>
+      <edges xmi:id="_51H8ewDJEd6QirVmKe_A6g" source="_5byPcQDJEd6QirVmKe_A6g" target="_5bpFmgDJEd6QirVmKe_A6g">
+        <children xmi:id="_51H8fgDJEd6QirVmKe_A6g" type="KindLabel">
+          <children xmi:id="_51H8gADJEd6QirVmKe_A6g" type="Stereotype"/>
+          <children xmi:id="_51H8ggDJEd6QirVmKe_A6g" type="Kind"/>
+          <children xmi:id="_51H8gQDJEd6QirVmKe_A6g" type="Name"/>
+          <layoutConstraint xmi:type="notation:Bounds" xmi:id="_51H8fwDJEd6QirVmKe_A6g" y="-186"/>
+        </children>
+        <styles xmi:type="umlnotation:UMLConnectorStyle" xmi:id="_51H8fADJEd6QirVmKe_A6g" routing="Rectilinear" showStereotype="Text"/>
+        <element xmi:type="uml:Usage" href="mmi:///#jdep%5Bjsrctype%5Ename=Customer%5Bjcu%5Ename=Customer.java%5Bjpack%5Ename=hotel%5Bjsrcroot%5Esrcfolder=src%5Bproject%5Eid=hotel%5D%5D%5D%5D%5D%5Bjsrctype%5Ename=Located%5Bjcu%5Ename=Located.java%5Bjpack%5Ename=hotel%5Bjsrcroot%5Esrcfolder=src%5Bproject%5Eid=hotel%5D%5D%5D%5D%5D$uml.Usage"/>
+        <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_51H8fQDJEd6QirVmKe_A6g" points="[-1, 2249, 3597, -8440]$[-1125, 5451, 2473, -5238]$[-3599, 8652, -1, -2037]"/>
+      </edges>
+      <edges xmi:id="_51H8gwDJEd6QirVmKe_A6g" source="_5byPcQDJEd6QirVmKe_A6g" target="_5bpFdgDJEd6QirVmKe_A6g">
+        <children xmi:id="_51H8hgDJEd6QirVmKe_A6g" type="KindLabel">
+          <children xmi:id="_51H8iADJEd6QirVmKe_A6g" type="Stereotype"/>
+          <children xmi:id="_51H8igDJEd6QirVmKe_A6g" type="Kind"/>
+          <children xmi:id="_51H8iQDJEd6QirVmKe_A6g" type="Name"/>
+          <layoutConstraint xmi:type="notation:Bounds" xmi:id="_51H8hwDJEd6QirVmKe_A6g" y="-186"/>
+        </children>
+        <styles xmi:type="umlnotation:UMLConnectorStyle" xmi:id="_51H8hADJEd6QirVmKe_A6g" routing="Rectilinear" showStereotype="Text"/>
+        <element xmi:type="uml:Usage" href="mmi:///#jdep%5Bjsrctype%5Ename=Customer%5Bjcu%5Ename=Customer.java%5Bjpack%5Ename=hotel%5Bjsrcroot%5Esrcfolder=src%5Bproject%5Eid=hotel%5D%5D%5D%5D%5D%5Bjsrctype%5Ename=Unique%5Bjcu%5Ename=Unique.java%5Bjpack%5Ename=hotel%5Bjsrcroot%5Esrcfolder=src%5Bproject%5Eid=hotel%5D%5D%5D%5D%5D$uml.Usage"/>
+        <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_51H8hQDJEd6QirVmKe_A6g" points="[-1, 2249, 3585, -3202]$[-3599, 3837, -13, -1614]"/>
+      </edges>
+      <edges xmi:id="_51H8iwDJEd6QirVmKe_A6g" source="_5byPfQDJEd6QirVmKe_A6g" target="_5bpFjgDJEd6QirVmKe_A6g">
+        <children xmi:id="_51H8jgDJEd6QirVmKe_A6g" type="KindLabel">
+          <children xmi:id="_51H8kADJEd6QirVmKe_A6g" type="Stereotype"/>
+          <children xmi:id="_51RGYADJEd6QirVmKe_A6g" type="Kind"/>
+          <children xmi:id="_51H8kQDJEd6QirVmKe_A6g" type="Name"/>
+          <layoutConstraint xmi:type="notation:Bounds" xmi:id="_51H8jwDJEd6QirVmKe_A6g" y="-186"/>
+        </children>
+        <styles xmi:type="umlnotation:UMLConnectorStyle" xmi:id="_51H8jADJEd6QirVmKe_A6g" routing="Rectilinear" showStereotype="Text"/>
+        <element xmi:type="uml:Usage" href="mmi:///#jdep%5Bjsrctype%5Ename=Hotel%5Bjcu%5Ename=Hotel.java%5Bjpack%5Ename=hotel%5Bjsrcroot%5Esrcfolder=src%5Bproject%5Eid=hotel%5D%5D%5D%5D%5D%5Bjsrctype%5Ename=Suite%5Bjcu%5Ename=Suite.java%5Bjpack%5Ename=hotel%5Bjsrcroot%5Esrcfolder=src%5Bproject%5Eid=hotel%5D%5D%5D%5D%5D$uml.Usage"/>
+        <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_51H8jQDJEd6QirVmKe_A6g" points="[-14, 7752, 4022, -14525]$[-5133, 11588, -1097, -10689]$[-5133, 17039, -1097, -5238]$[-4036, 20240, 0, -2037]"/>
+      </edges>
+      <edges xmi:id="_51RGYQDJEd6QirVmKe_A6g" source="_5byPfQDJEd6QirVmKe_A6g" target="_5byPuQDJEd6QirVmKe_A6g">
+        <children xmi:id="_51RGZADJEd6QirVmKe_A6g" type="KindLabel">
+          <children xmi:id="_51RGZgDJEd6QirVmKe_A6g" type="Stereotype"/>
+          <children xmi:id="_51RGaADJEd6QirVmKe_A6g" type="Kind"/>
+          <children xmi:id="_51RGZwDJEd6QirVmKe_A6g" type="Name"/>
+          <layoutConstraint xmi:type="notation:Bounds" xmi:id="_51RGZQDJEd6QirVmKe_A6g" y="-186"/>
+        </children>
+        <styles xmi:type="umlnotation:UMLConnectorStyle" xmi:id="_51RGYgDJEd6QirVmKe_A6g" routing="Rectilinear" showStereotype="Text"/>
+        <element xmi:type="uml:Usage" href="mmi:///#jdep%5Bjsrctype%5Ename=Hotel%5Bjcu%5Ename=Hotel.java%5Bjpack%5Ename=hotel%5Bjsrcroot%5Esrcfolder=src%5Bproject%5Eid=hotel%5D%5D%5D%5D%5D%5Bjsrctype%5Ename=Double%5Bjcu%5Ename=Double.java%5Bjpack%5Ename=hotel%5Bjsrcroot%5Esrcfolder=src%5Bproject%5Eid=hotel%5D%5D%5D%5D%5D$uml.Usage"/>
+        <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_51RGYwDJEd6QirVmKe_A6g" points="[-14, 7752, 0, -14525]$[-14, 20240, 0, -2037]"/>
+      </edges>
+      <edges xmi:id="_51RGaQDJEd6QirVmKe_A6g" source="_5byPfQDJEd6QirVmKe_A6g" target="_5byPYgDJEd6QirVmKe_A6g">
+        <children xmi:id="_51RGbADJEd6QirVmKe_A6g" type="KindLabel">
+          <children xmi:id="_51RGbgDJEd6QirVmKe_A6g" type="Stereotype"/>
+          <children xmi:id="_51RGcADJEd6QirVmKe_A6g" type="Kind"/>
+          <children xmi:id="_51RGbwDJEd6QirVmKe_A6g" type="Name"/>
+          <layoutConstraint xmi:type="notation:Bounds" xmi:id="_51RGbQDJEd6QirVmKe_A6g" y="-186"/>
+        </children>
+        <styles xmi:type="umlnotation:UMLConnectorStyle" xmi:id="_51RGagDJEd6QirVmKe_A6g" routing="Rectilinear" showStereotype="Text"/>
+        <element xmi:type="uml:Usage" href="mmi:///#jdep%5Bjsrctype%5Ename=Hotel%5Bjcu%5Ename=Hotel.java%5Bjpack%5Ename=hotel%5Bjsrcroot%5Esrcfolder=src%5Bproject%5Eid=hotel%5D%5D%5D%5D%5D%5Bjsrctype%5Ename=Type%5Bjsrctype%5Ename=RoomType%5Bjcu%5Ename=RoomType.java%5Bjpack%5Ename=hotel%5Bjsrcroot%5Esrcfolder=src%5Bproject%5Eid=hotel%5D%5D%5D%5D%5D%5D$uml.Usage"/>
+        <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_51RGawDJEd6QirVmKe_A6g" points="[-14, 7752, 12144, -14525]$[-6245, 11588, 5913, -10689]$[-6245, 17039, 5913, -5238]$[-12158, 20240, 0, -2037]"/>
+      </edges>
+      <edges xmi:id="_51RGcQDJEd6QirVmKe_A6g" source="_5byPfQDJEd6QirVmKe_A6g" target="_5b8AjQDJEd6QirVmKe_A6g">
+        <children xmi:id="_51RGdADJEd6QirVmKe_A6g" type="KindLabel">
+          <children xmi:id="_51RGdgDJEd6QirVmKe_A6g" type="Stereotype"/>
+          <children xmi:id="_51RGeADJEd6QirVmKe_A6g" type="Kind"/>
+          <children xmi:id="_51RGdwDJEd6QirVmKe_A6g" type="Name"/>
+          <layoutConstraint xmi:type="notation:Bounds" xmi:id="_51RGdQDJEd6QirVmKe_A6g" y="-186"/>
+        </children>
+        <styles xmi:type="umlnotation:UMLConnectorStyle" xmi:id="_51RGcgDJEd6QirVmKe_A6g" routing="Rectilinear" showStereotype="Text"/>
+        <element xmi:type="uml:Usage" href="mmi:///#jdep%5Bjsrctype%5Ename=Hotel%5Bjcu%5Ename=Hotel.java%5Bjpack%5Ename=hotel%5Bjsrcroot%5Esrcfolder=src%5Bproject%5Eid=hotel%5D%5D%5D%5D%5D%5Bjsrctype%5Ename=Room%5Bjcu%5Ename=Room.java%5Bjpack%5Ename=hotel%5Bjsrcroot%5Esrcfolder=src%5Bproject%5Eid=hotel%5D%5D%5D%5D%5D$uml.Usage"/>
+        <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_51RGcwDJEd6QirVmKe_A6g" points="[-14, 7752, -10875, -3836]$[10860, 9339, -1, -2249]"/>
+      </edges>
+      <edges xmi:id="_51RGeQDJEd6QirVmKe_A6g" source="_5byPfQDJEd6QirVmKe_A6g" target="_5bpFmgDJEd6QirVmKe_A6g">
+        <children xmi:id="_51RGfADJEd6QirVmKe_A6g" type="NameLabel">
+          <children xmi:id="_51RGfgDJEd6QirVmKe_A6g" type="Stereotype"/>
+          <children xmi:id="_51RGfwDJEd6QirVmKe_A6g" type="Name"/>
+          <layoutConstraint xmi:type="notation:Bounds" xmi:id="_51RGfQDJEd6QirVmKe_A6g" y="-186"/>
+        </children>
+        <styles xmi:type="umlnotation:UMLConnectorStyle" xmi:id="_51RGegDJEd6QirVmKe_A6g" routing="Rectilinear" showStereotype="Text"/>
+        <element xmi:type="uml:Generalization" href="mmi:///#jgen%5Bjsrctype%5Ename=Hotel%5Bjcu%5Ename=Hotel.java%5Bjpack%5Ename=hotel%5Bjsrcroot%5Esrcfolder=src%5Bproject%5Eid=hotel%5D%5D%5D%5D%5D%5Bjsrctype%5Ename=Located%5Bjcu%5Ename=Located.java%5Bjpack%5Ename=hotel%5Bjsrcroot%5Esrcfolder=src%5Bproject%5Eid=hotel%5D%5D%5D%5D%5D$uml.Generalization"/>
+        <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_51RGewDJEd6QirVmKe_A6g" points="[-14, 7752, -13680, -14525]$[6932, 11588, -6734, -10689]$[8043, 17039, -5623, -5238]$[13665, 20240, -1, -2037]"/>
+      </edges>
+      <edges xmi:id="_51RGgADJEd6QirVmKe_A6g" source="_5byPfQDJEd6QirVmKe_A6g" target="_5bMZggDJEd6QirVmKe_A6g">
+        <children xmi:id="_51RGgwDJEd6QirVmKe_A6g" type="KindLabel">
+          <children xmi:id="_51RGhQDJEd6QirVmKe_A6g" type="Stereotype"/>
+          <children xmi:id="_51a3YADJEd6QirVmKe_A6g" type="Kind"/>
+          <children xmi:id="_51RGhgDJEd6QirVmKe_A6g" type="Name"/>
+          <layoutConstraint xmi:type="notation:Bounds" xmi:id="_51RGhADJEd6QirVmKe_A6g" y="-186"/>
+        </children>
+        <styles xmi:type="umlnotation:UMLConnectorStyle" xmi:id="_51RGgQDJEd6QirVmKe_A6g" routing="Rectilinear" showStereotype="Text"/>
+        <element xmi:type="uml:Usage" href="mmi:///#jdep%5Bjsrctype%5Ename=Hotel%5Bjcu%5Ename=Hotel.java%5Bjpack%5Ename=hotel%5Bjsrcroot%5Esrcfolder=src%5Bproject%5Eid=hotel%5D%5D%5D%5D%5D%5Bjsrctype%5Ename=Single%5Bjcu%5Ename=Single.java%5Bjpack%5Ename=hotel%5Bjsrcroot%5Esrcfolder=src%5Bproject%5Eid=hotel%5D%5D%5D%5D%5D$uml.Usage"/>
+        <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_51RGggDJEd6QirVmKe_A6g" points="[-14, 7752, 8043, -14525]$[-5689, 11588, 2368, -10689]$[-5689, 17039, 2368, -5238]$[-8057, 20240, 0, -2037]"/>
+      </edges>
+      <edges xmi:id="_51a3YQDJEd6QirVmKe_A6g" source="_5byPfQDJEd6QirVmKe_A6g" target="_5b8AgQDJEd6QirVmKe_A6g">
+        <children xmi:id="_51a3ZADJEd6QirVmKe_A6g" type="KindLabel">
+          <children xmi:id="_51a3ZgDJEd6QirVmKe_A6g" type="Stereotype"/>
+          <children xmi:id="_51a3aADJEd6QirVmKe_A6g" type="Kind"/>
+          <children xmi:id="_51a3ZwDJEd6QirVmKe_A6g" type="Name"/>
+          <layoutConstraint xmi:type="notation:Bounds" xmi:id="_51a3ZQDJEd6QirVmKe_A6g" y="-186"/>
+        </children>
+        <styles xmi:type="umlnotation:UMLConnectorStyle" xmi:id="_51a3YgDJEd6QirVmKe_A6g" routing="Rectilinear" showStereotype="Text"/>
+        <element xmi:type="uml:Usage" href="mmi:///#jdep%5Bjsrctype%5Ename=Hotel%5Bjcu%5Ename=Hotel.java%5Bjpack%5Ename=hotel%5Bjsrcroot%5Esrcfolder=src%5Bproject%5Eid=hotel%5D%5D%5D%5D%5D%5Bjsrctype%5Ename=Family%5Bjcu%5Ename=Family.java%5Bjpack%5Ename=hotel%5Bjsrcroot%5Esrcfolder=src%5Bproject%5Eid=hotel%5D%5D%5D%5D%5D$uml.Usage"/>
+        <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_51a3YwDJEd6QirVmKe_A6g" points="[-14, 7752, 2566, -3836]$[-2580, 9339, 0, -2249]"/>
+      </edges>
+      <edges xmi:id="_51a3aQDJEd6QirVmKe_A6g" source="_5byPfQDJEd6QirVmKe_A6g" target="_5bpFmgDJEd6QirVmKe_A6g">
+        <children xmi:id="_51a3bADJEd6QirVmKe_A6g" type="KindLabel">
+          <children xmi:id="_51a3bgDJEd6QirVmKe_A6g" type="Stereotype"/>
+          <children xmi:id="_51a3cADJEd6QirVmKe_A6g" type="Kind"/>
+          <children xmi:id="_51a3bwDJEd6QirVmKe_A6g" type="Name"/>
+          <layoutConstraint xmi:type="notation:Bounds" xmi:id="_51a3bQDJEd6QirVmKe_A6g" y="-186"/>
+        </children>
+        <styles xmi:type="umlnotation:UMLConnectorStyle" xmi:id="_51a3agDJEd6QirVmKe_A6g" routing="Rectilinear" showStereotype="Text"/>
+        <element xmi:type="uml:Usage" href="mmi:///#jdep%5Bjsrctype%5Ename=Hotel%5Bjcu%5Ename=Hotel.java%5Bjpack%5Ename=hotel%5Bjsrcroot%5Esrcfolder=src%5Bproject%5Eid=hotel%5D%5D%5D%5D%5D%5Bjsrctype%5Ename=Located%5Bjcu%5Ename=Located.java%5Bjpack%5Ename=hotel%5Bjsrcroot%5Esrcfolder=src%5Bproject%5Eid=hotel%5D%5D%5D%5D%5D$uml.Usage"/>
+        <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_51a3awDJEd6QirVmKe_A6g" points="[-14, 7752, -13680, -14525]$[5820, 11588, -7846, -10689]$[6932, 17039, -6734, -5238]$[13665, 20240, -1, -2037]"/>
+      </edges>
+      <edges xmi:id="_51a3cQDJEd6QirVmKe_A6g" source="_5byPfQDJEd6QirVmKe_A6g" target="_5bpFdgDJEd6QirVmKe_A6g">
+        <children xmi:id="_51a3dADJEd6QirVmKe_A6g" type="KindLabel">
+          <children xmi:id="_51a3dgDJEd6QirVmKe_A6g" type="Stereotype"/>
+          <children xmi:id="_51a3eADJEd6QirVmKe_A6g" type="Kind"/>
+          <children xmi:id="_51a3dwDJEd6QirVmKe_A6g" type="Name"/>
+          <layoutConstraint xmi:type="notation:Bounds" xmi:id="_51a3dQDJEd6QirVmKe_A6g" y="-186"/>
+        </children>
+        <styles xmi:type="umlnotation:UMLConnectorStyle" xmi:id="_51a3cgDJEd6QirVmKe_A6g" routing="Rectilinear" showStereotype="Text"/>
+        <element xmi:type="uml:Usage" href="mmi:///#jdep%5Bjsrctype%5Ename=Hotel%5Bjcu%5Ename=Hotel.java%5Bjpack%5Ename=hotel%5Bjsrcroot%5Esrcfolder=src%5Bproject%5Eid=hotel%5D%5D%5D%5D%5D%5Bjsrctype%5Ename=Unique%5Bjcu%5Ename=Unique.java%5Bjpack%5Ename=hotel%5Bjsrcroot%5Esrcfolder=src%5Bproject%5Eid=hotel%5D%5D%5D%5D%5D$uml.Usage"/>
+        <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_51a3cwDJEd6QirVmKe_A6g" points="[-14, 7752, -13692, -9287]$[8043, 11588, -5635, -5451]$[13665, 15425, -13, -1614]"/>
+      </edges>
+      <edges xmi:id="_51a3eQDJEd6QirVmKe_A6g" source="_5byPiQDJEd6QirVmKe_A6g" target="_5byPrQDJEd6QirVmKe_A6g">
+        <children xmi:id="_51a3fADJEd6QirVmKe_A6g" type="KindLabel">
+          <children xmi:id="_51a3fgDJEd6QirVmKe_A6g" type="Stereotype"/>
+          <children xmi:id="_51a3gADJEd6QirVmKe_A6g" type="Kind"/>
+          <children xmi:id="_51a3fwDJEd6QirVmKe_A6g" type="Name"/>
+          <layoutConstraint xmi:type="notation:Bounds" xmi:id="_51a3fQDJEd6QirVmKe_A6g" y="-186"/>
+        </children>
+        <styles xmi:type="umlnotation:UMLConnectorStyle" xmi:id="_51a3egDJEd6QirVmKe_A6g" routing="Rectilinear" showStereotype="Text"/>
+        <element xmi:type="uml:Usage" href="mmi:///#jdep%5Bjsrctype%5Ename=BookingSystem%5Bjcu%5Ename=BookingSystem.java%5Bjpack%5Ename=hotel%5Bjsrcroot%5Esrcfolder=src%5Bproject%5Eid=hotel%5D%5D%5D%5D%5D%5Bjsrctype%5Ename=Booking%5Bjcu%5Ename=Booking.java%5Bjpack%5Ename=hotel%5Bjsrcroot%5Esrcfolder=src%5Bproject%5Eid=hotel%5D%5D%5D%5D%5D$uml.Usage"/>
+        <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_51a3ewDJEd6QirVmKe_A6g" points="[-14, 6271, 3836, -9340]$[-3850, 7858, 0, -7753]"/>
+      </edges>
+      <edges xmi:id="_51koYADJEd6QirVmKe_A6g" source="_5byPiQDJEd6QirVmKe_A6g" target="_5byPfQDJEd6QirVmKe_A6g">
+        <children xmi:id="_51koYwDJEd6QirVmKe_A6g" type="KindLabel">
+          <children xmi:id="_51koZQDJEd6QirVmKe_A6g" type="Stereotype"/>
+          <children xmi:id="_51koZwDJEd6QirVmKe_A6g" type="Kind"/>
+          <children xmi:id="_51koZgDJEd6QirVmKe_A6g" type="Name"/>
+          <layoutConstraint xmi:type="notation:Bounds" xmi:id="_51koZADJEd6QirVmKe_A6g" y="-186"/>
+        </children>
+        <styles xmi:type="umlnotation:UMLConnectorStyle" xmi:id="_51koYQDJEd6QirVmKe_A6g" routing="Rectilinear" showStereotype="Text"/>
+        <element xmi:type="uml:Usage" href="mmi:///#jdep%5Bjsrctype%5Ename=BookingSystem%5Bjcu%5Ename=BookingSystem.java%5Bjpack%5Ename=hotel%5Bjsrcroot%5Esrcfolder=src%5Bproject%5Eid=hotel%5D%5D%5D%5D%5D%5Bjsrctype%5Ename=Hotel%5Bjcu%5Ename=Hotel.java%5Bjpack%5Ename=hotel%5Bjsrcroot%5Esrcfolder=src%5Bproject%5Eid=hotel%5D%5D%5D%5D%5D$uml.Usage"/>
+        <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_51koYgDJEd6QirVmKe_A6g" points="[-14, 6271, 10860, -9340]$[-10888, 7858, -14, -7753]"/>
+      </edges>
+      <edges xmi:id="_51koaADJEd6QirVmKe_A6g" source="_5byPiQDJEd6QirVmKe_A6g" target="_5b8AjQDJEd6QirVmKe_A6g">
+        <children xmi:id="_51koawDJEd6QirVmKe_A6g" type="KindLabel">
+          <children xmi:id="_51kobQDJEd6QirVmKe_A6g" type="Stereotype"/>
+          <children xmi:id="_51kobwDJEd6QirVmKe_A6g" type="Kind"/>
+          <children xmi:id="_51kobgDJEd6QirVmKe_A6g" type="Name"/>
+          <layoutConstraint xmi:type="notation:Bounds" xmi:id="_51kobADJEd6QirVmKe_A6g" y="-186"/>
+        </children>
+        <styles xmi:type="umlnotation:UMLConnectorStyle" xmi:id="_51koaQDJEd6QirVmKe_A6g" routing="Rectilinear" showStereotype="Text"/>
+        <element xmi:type="uml:Usage" href="mmi:///#jdep%5Bjsrctype%5Ename=BookingSystem%5Bjcu%5Ename=BookingSystem.java%5Bjpack%5Ename=hotel%5Bjsrcroot%5Esrcfolder=src%5Bproject%5Eid=hotel%5D%5D%5D%5D%5D%5Bjsrctype%5Ename=Room%5Bjcu%5Ename=Room.java%5Bjpack%5Ename=hotel%5Bjsrcroot%5Esrcfolder=src%5Bproject%5Eid=hotel%5D%5D%5D%5D%5D$uml.Usage"/>
+        <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_51koagDJEd6QirVmKe_A6g" points="[-14, 6271, -1, -20928]$[-14, 24950, -1, -2249]"/>
+      </edges>
+      <edges xmi:id="_51kocADJEd6QirVmKe_A6g" source="_5byPiQDJEd6QirVmKe_A6g" target="_5byPYgDJEd6QirVmKe_A6g">
+        <children xmi:id="_51kocwDJEd6QirVmKe_A6g" type="KindLabel">
+          <children xmi:id="_51kodQDJEd6QirVmKe_A6g" type="Stereotype"/>
+          <children xmi:id="_51kodwDJEd6QirVmKe_A6g" type="Kind"/>
+          <children xmi:id="_51kodgDJEd6QirVmKe_A6g" type="Name"/>
+          <layoutConstraint xmi:type="notation:Bounds" xmi:id="_51kodADJEd6QirVmKe_A6g" y="-186"/>
+        </children>
+        <styles xmi:type="umlnotation:UMLConnectorStyle" xmi:id="_51kocQDJEd6QirVmKe_A6g" routing="Rectilinear" showStereotype="Text"/>
+        <element xmi:type="uml:Usage" href="mmi:///#jdep%5Bjsrctype%5Ename=BookingSystem%5Bjcu%5Ename=BookingSystem.java%5Bjpack%5Ename=hotel%5Bjsrcroot%5Esrcfolder=src%5Bproject%5Eid=hotel%5D%5D%5D%5D%5D%5Bjsrctype%5Ename=Type%5Bjsrctype%5Ename=RoomType%5Bjcu%5Ename=RoomType.java%5Bjpack%5Ename=hotel%5Bjsrcroot%5Esrcfolder=src%5Bproject%5Eid=hotel%5D%5D%5D%5D%5D%5D$uml.Usage"/>
+        <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_51kocgDJEd6QirVmKe_A6g" points="[-14, 6271, 23018, -31617]$[-17674, 15611, 5358, -22277]$[-17674, 32650, 5358, -5238]$[-23032, 35851, 0, -2037]"/>
+      </edges>
+      <edges xmi:id="_51koeADJEd6QirVmKe_A6g" source="_5byPiQDJEd6QirVmKe_A6g" target="_5bpFdgDJEd6QirVmKe_A6g">
+        <children xmi:id="_51koewDJEd6QirVmKe_A6g" type="KindLabel">
+          <children xmi:id="_51kofQDJEd6QirVmKe_A6g" type="Stereotype"/>
+          <children xmi:id="_51tyUADJEd6QirVmKe_A6g" type="Kind"/>
+          <children xmi:id="_51kofgDJEd6QirVmKe_A6g" type="Name"/>
+          <layoutConstraint xmi:type="notation:Bounds" xmi:id="_51kofADJEd6QirVmKe_A6g" y="-186"/>
+        </children>
+        <styles xmi:type="umlnotation:UMLConnectorStyle" xmi:id="_51koeQDJEd6QirVmKe_A6g" routing="Rectilinear" showStereotype="Text"/>
+        <element xmi:type="uml:Usage" href="mmi:///#jdep%5Bjsrctype%5Ename=BookingSystem%5Bjcu%5Ename=BookingSystem.java%5Bjpack%5Ename=hotel%5Bjsrcroot%5Esrcfolder=src%5Bproject%5Eid=hotel%5D%5D%5D%5D%5D%5Bjsrctype%5Ename=Unique%5Bjcu%5Ename=Unique.java%5Bjpack%5Ename=hotel%5Bjsrcroot%5Esrcfolder=src%5Bproject%5Eid=hotel%5D%5D%5D%5D%5D$uml.Usage"/>
+        <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_51koegDJEd6QirVmKe_A6g" points="[-14, 6271, -2818, -26379]$[3916, 15611, 1112, -17039]$[3916, 27199, 1112, -5451]$[2791, 31036, -13, -1614]"/>
+      </edges>
+      <edges xmi:id="_51tyUQDJEd6QirVmKe_A6g" source="_5byPiQDJEd6QirVmKe_A6g" target="_5byPcQDJEd6QirVmKe_A6g">
+        <children xmi:id="_51tyVADJEd6QirVmKe_A6g" type="KindLabel">
+          <children xmi:id="_51tyVgDJEd6QirVmKe_A6g" type="Stereotype"/>
+          <children xmi:id="_51tyWADJEd6QirVmKe_A6g" type="Kind"/>
+          <children xmi:id="_51tyVwDJEd6QirVmKe_A6g" type="Name"/>
+          <layoutConstraint xmi:type="notation:Bounds" xmi:id="_51tyVQDJEd6QirVmKe_A6g" y="-186"/>
+        </children>
+        <styles xmi:type="umlnotation:UMLConnectorStyle" xmi:id="_51tyUgDJEd6QirVmKe_A6g" routing="Rectilinear" showStereotype="Text"/>
+        <element xmi:type="uml:Usage" href="mmi:///#jdep%5Bjsrctype%5Ename=BookingSystem%5Bjcu%5Ename=BookingSystem.java%5Bjpack%5Ename=hotel%5Bjsrcroot%5Esrcfolder=src%5Bproject%5Eid=hotel%5D%5D%5D%5D%5D%5Bjsrctype%5Ename=Customer%5Bjcu%5Ename=Customer.java%5Bjpack%5Ename=hotel%5Bjsrcroot%5Esrcfolder=src%5Bproject%5Eid=hotel%5D%5D%5D%5D%5D$uml.Usage"/>
+        <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_51tyUwDJEd6QirVmKe_A6g" points="[-14, 6271, -6404, -20928]$[4471, 15611, -1919, -11588]$[6389, 24950, -1, -2249]"/>
+      </edges>
+      <edges xmi:id="_51tyWQDJEd6QirVmKe_A6g" source="_5byPlQDJEd6QirVmKe_A6g" target="_5byPoQDJEd6QirVmKe_A6g">
+        <children xmi:id="_51tyXADJEd6QirVmKe_A6g" type="KindLabel">
+          <children xmi:id="_51tyXgDJEd6QirVmKe_A6g" type="Stereotype"/>
+          <children xmi:id="_51tyYADJEd6QirVmKe_A6g" type="Kind"/>
+          <children xmi:id="_51tyXwDJEd6QirVmKe_A6g" type="Name"/>
+          <layoutConstraint xmi:type="notation:Bounds" xmi:id="_51tyXQDJEd6QirVmKe_A6g" y="-186"/>
+        </children>
+        <styles xmi:type="umlnotation:UMLConnectorStyle" xmi:id="_51tyWgDJEd6QirVmKe_A6g" routing="Rectilinear" showStereotype="Text"/>
+        <element xmi:type="uml:Usage" href="mmi:///#jdep%5Bjsrctype%5Ename=Drink%5Bjcu%5Ename=Drink.java%5Bjpack%5Ename=hotel%5Bjsrcroot%5Esrcfolder=src%5Bproject%5Eid=hotel%5D%5D%5D%5D%5D%5Bjsrctype%5Ename=AdditionalItem%5Bjcu%5Ename=AdditionalItem.java%5Bjpack%5Ename=hotel%5Bjsrcroot%5Esrcfolder=src%5Bproject%5Eid=hotel%5D%5D%5D%5D%5D$uml.Usage"/>
+        <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_51tyWwDJEd6QirVmKe_A6g" points="[0, -2037, 4008, 3201]$[-4021, -3625, -13, 1613]"/>
+      </edges>
+      <edges xmi:id="_51tyYQDJEd6QirVmKe_A6g" source="_5byPlQDJEd6QirVmKe_A6g" target="_5byPoQDJEd6QirVmKe_A6g">
+        <children xmi:id="_51tyZADJEd6QirVmKe_A6g" type="NameLabel">
+          <children xmi:id="_51tyZgDJEd6QirVmKe_A6g" type="Stereotype"/>
+          <children xmi:id="_51tyZwDJEd6QirVmKe_A6g" type="Name"/>
+          <layoutConstraint xmi:type="notation:Bounds" xmi:id="_51tyZQDJEd6QirVmKe_A6g" y="-186"/>
+        </children>
+        <styles xmi:type="umlnotation:UMLConnectorStyle" xmi:id="_51tyYgDJEd6QirVmKe_A6g" routing="Rectilinear" showStereotype="Text"/>
+        <element xmi:type="uml:Generalization" href="mmi:///#jgen%5Bjsrctype%5Ename=Drink%5Bjcu%5Ename=Drink.java%5Bjpack%5Ename=hotel%5Bjsrcroot%5Esrcfolder=src%5Bproject%5Eid=hotel%5D%5D%5D%5D%5D%5Bjsrctype%5Ename=AdditionalItem%5Bjcu%5Ename=AdditionalItem.java%5Bjpack%5Ename=hotel%5Bjsrcroot%5Esrcfolder=src%5Bproject%5Eid=hotel%5D%5D%5D%5D%5D$uml.Generalization"/>
+        <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_51tyYwDJEd6QirVmKe_A6g" points="[0, -2037, 4008, 3201]$[-4021, -3625, -13, 1613]"/>
+      </edges>
+      <edges xmi:id="_51tyaADJEd6QirVmKe_A6g" source="_5byPrQDJEd6QirVmKe_A6g" target="_5bpFdgDJEd6QirVmKe_A6g">
+        <children xmi:id="_51tyawDJEd6QirVmKe_A6g" type="NameLabel">
+          <children xmi:id="_51tybQDJEd6QirVmKe_A6g" type="Stereotype"/>
+          <children xmi:id="_51tybgDJEd6QirVmKe_A6g" type="Name"/>
+          <layoutConstraint xmi:type="notation:Bounds" xmi:id="_51tybADJEd6QirVmKe_A6g" y="-186"/>
+        </children>
+        <styles xmi:type="umlnotation:UMLConnectorStyle" xmi:id="_51tyaQDJEd6QirVmKe_A6g" routing="Rectilinear" showStereotype="Text"/>
+        <element xmi:type="uml:Generalization" href="mmi:///#jgen%5Bjsrctype%5Ename=Booking%5Bjcu%5Ename=Booking.java%5Bjpack%5Ename=hotel%5Bjsrcroot%5Esrcfolder=src%5Bproject%5Eid=hotel%5D%5D%5D%5D%5D%5Bjsrctype%5Ename=Unique%5Bjcu%5Ename=Unique.java%5Bjpack%5Ename=hotel%5Bjsrcroot%5Esrcfolder=src%5Bproject%5Eid=hotel%5D%5D%5D%5D%5D$uml.Generalization"/>
+        <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_51tyagDJEd6QirVmKe_A6g" points="[0, 7752, -6654, -9287]$[7210, 11588, 556, -5451]$[6641, 15425, -13, -1614]"/>
+      </edges>
+      <edges xmi:id="_51tybwDJEd6QirVmKe_A6g" source="_5byPrQDJEd6QirVmKe_A6g" target="_5byPlQDJEd6QirVmKe_A6g">
+        <children xmi:id="_51tycgDJEd6QirVmKe_A6g" type="KindLabel">
+          <children xmi:id="_51tydADJEd6QirVmKe_A6g" type="Stereotype"/>
+          <children xmi:id="_51tydgDJEd6QirVmKe_A6g" type="Kind"/>
+          <children xmi:id="_51tydQDJEd6QirVmKe_A6g" type="Name"/>
+          <layoutConstraint xmi:type="notation:Bounds" xmi:id="_51tycwDJEd6QirVmKe_A6g" y="-186"/>
+        </children>
+        <styles xmi:type="umlnotation:UMLConnectorStyle" xmi:id="_51tycADJEd6QirVmKe_A6g" routing="Rectilinear" showStereotype="Text"/>
+        <element xmi:type="uml:Usage" href="mmi:///#jdep%5Bjsrctype%5Ename=Booking%5Bjcu%5Ename=Booking.java%5Bjpack%5Ename=hotel%5Bjsrcroot%5Esrcfolder=src%5Bproject%5Eid=hotel%5D%5D%5D%5D%5D%5Bjsrctype%5Ename=Drink%5Bjcu%5Ename=Drink.java%5Bjpack%5Ename=hotel%5Bjsrcroot%5Esrcfolder=src%5Bproject%5Eid=hotel%5D%5D%5D%5D%5D$uml.Usage"/>
+        <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_51tycQDJEd6QirVmKe_A6g" points="[0, 7752, -1005, -14525]$[463, 11588, -542, -10689]$[463, 17039, -542, -5238]$[1005, 20240, 0, -2037]"/>
+      </edges>
+      <edges xmi:id="_513jUADJEd6QirVmKe_A6g" source="_5byPrQDJEd6QirVmKe_A6g" target="_5b8AjQDJEd6QirVmKe_A6g">
+        <children xmi:id="_513jUwDJEd6QirVmKe_A6g" type="KindLabel">
+          <children xmi:id="_513jVQDJEd6QirVmKe_A6g" type="Stereotype"/>
+          <children xmi:id="_513jVwDJEd6QirVmKe_A6g" type="Kind"/>
+          <children xmi:id="_513jVgDJEd6QirVmKe_A6g" type="Name"/>
+          <layoutConstraint xmi:type="notation:Bounds" xmi:id="_513jVADJEd6QirVmKe_A6g" y="-186"/>
+        </children>
+        <styles xmi:type="umlnotation:UMLConnectorStyle" xmi:id="_513jUQDJEd6QirVmKe_A6g" routing="Rectilinear" showStereotype="Text"/>
+        <element xmi:type="uml:Usage" href="mmi:///#jdep%5Bjsrctype%5Ename=Booking%5Bjcu%5Ename=Booking.java%5Bjpack%5Ename=hotel%5Bjsrcroot%5Esrcfolder=src%5Bproject%5Eid=hotel%5D%5D%5D%5D%5D%5Bjsrctype%5Ename=Room%5Bjcu%5Ename=Room.java%5Bjpack%5Ename=hotel%5Bjsrcroot%5Esrcfolder=src%5Bproject%5Eid=hotel%5D%5D%5D%5D%5D$uml.Usage"/>
+        <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_513jUgDJEd6QirVmKe_A6g" points="[0, 7752, -3837, -3836]$[3836, 9339, -1, -2249]"/>
+      </edges>
+      <edges xmi:id="_513jWADJEd6QirVmKe_A6g" source="_5byPrQDJEd6QirVmKe_A6g" target="_5byPcQDJEd6QirVmKe_A6g">
+        <children xmi:id="_513jWwDJEd6QirVmKe_A6g" type="KindLabel">
+          <children xmi:id="_513jXQDJEd6QirVmKe_A6g" type="Stereotype"/>
+          <children xmi:id="_513jXwDJEd6QirVmKe_A6g" type="Kind"/>
+          <children xmi:id="_513jXgDJEd6QirVmKe_A6g" type="Name"/>
+          <layoutConstraint xmi:type="notation:Bounds" xmi:id="_513jXADJEd6QirVmKe_A6g" y="-186"/>
+        </children>
+        <styles xmi:type="umlnotation:UMLConnectorStyle" xmi:id="_513jWQDJEd6QirVmKe_A6g" routing="Rectilinear" showStereotype="Text"/>
+        <element xmi:type="uml:Usage" href="mmi:///#jdep%5Bjsrctype%5Ename=Booking%5Bjcu%5Ename=Booking.java%5Bjpack%5Ename=hotel%5Bjsrcroot%5Esrcfolder=src%5Bproject%5Eid=hotel%5D%5D%5D%5D%5D%5Bjsrctype%5Ename=Customer%5Bjcu%5Ename=Customer.java%5Bjpack%5Ename=hotel%5Bjsrcroot%5Esrcfolder=src%5Bproject%5Eid=hotel%5D%5D%5D%5D%5D$uml.Usage"/>
+        <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_513jWgDJEd6QirVmKe_A6g" points="[0, 7752, -10240, -3836]$[10239, 9339, -1, -2249]"/>
+      </edges>
+      <edges xmi:id="_513jYADJEd6QirVmKe_A6g" source="_5byPrQDJEd6QirVmKe_A6g" target="_5byPoQDJEd6QirVmKe_A6g">
+        <children xmi:id="_513jYwDJEd6QirVmKe_A6g" type="KindLabel">
+          <children xmi:id="_513jZQDJEd6QirVmKe_A6g" type="Stereotype"/>
+          <children xmi:id="_513jZwDJEd6QirVmKe_A6g" type="Kind"/>
+          <children xmi:id="_513jZgDJEd6QirVmKe_A6g" type="Name"/>
+          <layoutConstraint xmi:type="notation:Bounds" xmi:id="_513jZADJEd6QirVmKe_A6g" y="-186"/>
+        </children>
+        <styles xmi:type="umlnotation:UMLConnectorStyle" xmi:id="_513jYQDJEd6QirVmKe_A6g" routing="Rectilinear" showStereotype="Text"/>
+        <element xmi:type="uml:Usage" href="mmi:///#jdep%5Bjsrctype%5Ename=Booking%5Bjcu%5Ename=Booking.java%5Bjpack%5Ename=hotel%5Bjsrcroot%5Esrcfolder=src%5Bproject%5Eid=hotel%5D%5D%5D%5D%5D%5Bjsrctype%5Ename=AdditionalItem%5Bjcu%5Ename=AdditionalItem.java%5Bjpack%5Ename=hotel%5Bjsrcroot%5Esrcfolder=src%5Bproject%5Eid=hotel%5D%5D%5D%5D%5D$uml.Usage"/>
+        <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_513jYgDJEd6QirVmKe_A6g" points="[0, 7752, 3003, -9287]$[-648, 11588, 2355, -5451]$[-3016, 15425, -13, -1614]"/>
+      </edges>
+      <edges xmi:id="_513jaADJEd6QirVmKe_A6g" source="_5byPrQDJEd6QirVmKe_A6g" target="_5bpFdgDJEd6QirVmKe_A6g">
+        <children xmi:id="_513jawDJEd6QirVmKe_A6g" type="KindLabel">
+          <children xmi:id="_513jbQDJEd6QirVmKe_A6g" type="Stereotype"/>
+          <children xmi:id="_513jbwDJEd6QirVmKe_A6g" type="Kind"/>
+          <children xmi:id="_513jbgDJEd6QirVmKe_A6g" type="Name"/>
+          <layoutConstraint xmi:type="notation:Bounds" xmi:id="_513jbADJEd6QirVmKe_A6g" y="-186"/>
+        </children>
+        <styles xmi:type="umlnotation:UMLConnectorStyle" xmi:id="_513jaQDJEd6QirVmKe_A6g" routing="Rectilinear" showStereotype="Text"/>
+        <element xmi:type="uml:Usage" href="mmi:///#jdep%5Bjsrctype%5Ename=Booking%5Bjcu%5Ename=Booking.java%5Bjpack%5Ename=hotel%5Bjsrcroot%5Esrcfolder=src%5Bproject%5Eid=hotel%5D%5D%5D%5D%5D%5Bjsrctype%5Ename=Unique%5Bjcu%5Ename=Unique.java%5Bjpack%5Ename=hotel%5Bjsrcroot%5Esrcfolder=src%5Bproject%5Eid=hotel%5D%5D%5D%5D%5D$uml.Usage"/>
+        <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_513jagDJEd6QirVmKe_A6g" points="[0, 7752, -6654, -9287]$[6654, 11588, 0, -5451]$[6641, 15425, -13, -1614]"/>
+      </edges>
+      <edges xmi:id="_513jcADJEd6QirVmKe_A6g" source="_5byPrQDJEd6QirVmKe_A6g" target="_5b8AdQDJEd6QirVmKe_A6g">
+        <children xmi:id="_513jcwDJEd6QirVmKe_A6g" type="KindLabel">
+          <children xmi:id="_513jdQDJEd6QirVmKe_A6g" type="Stereotype"/>
+          <children xmi:id="_513jdwDJEd6QirVmKe_A6g" type="Kind"/>
+          <children xmi:id="_513jdgDJEd6QirVmKe_A6g" type="Name"/>
+          <layoutConstraint xmi:type="notation:Bounds" xmi:id="_513jdADJEd6QirVmKe_A6g" y="-186"/>
+        </children>
+        <styles xmi:type="umlnotation:UMLConnectorStyle" xmi:id="_513jcQDJEd6QirVmKe_A6g" routing="Rectilinear" showStereotype="Text"/>
+        <element xmi:type="uml:Usage" href="mmi:///#jdep%5Bjsrctype%5Ename=Booking%5Bjcu%5Ename=Booking.java%5Bjpack%5Ename=hotel%5Bjsrcroot%5Esrcfolder=src%5Bproject%5Eid=hotel%5D%5D%5D%5D%5D%5Bjsrctype%5Ename=Spa%5Bjcu%5Ename=Spa.java%5Bjpack%5Ename=hotel%5Bjsrcroot%5Esrcfolder=src%5Bproject%5Eid=hotel%5D%5D%5D%5D%5D$uml.Usage"/>
+        <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_513jcgDJEd6QirVmKe_A6g" points="[0, 7752, 3492, -3836]$[-3492, 9339, 0, -2249]"/>
+      </edges>
+      <edges xmi:id="_513jeADJEd6QirVmKe_A6g" source="_5byPrQDJEd6QirVmKe_A6g" target="_5bpFggDJEd6QirVmKe_A6g">
+        <children xmi:id="_52AtQADJEd6QirVmKe_A6g" type="KindLabel">
+          <children xmi:id="_52AtQgDJEd6QirVmKe_A6g" type="Stereotype"/>
+          <children xmi:id="_52AtRADJEd6QirVmKe_A6g" type="Kind"/>
+          <children xmi:id="_52AtQwDJEd6QirVmKe_A6g" type="Name"/>
+          <layoutConstraint xmi:type="notation:Bounds" xmi:id="_52AtQQDJEd6QirVmKe_A6g" y="-186"/>
+        </children>
+        <styles xmi:type="umlnotation:UMLConnectorStyle" xmi:id="_513jeQDJEd6QirVmKe_A6g" routing="Rectilinear" showStereotype="Text"/>
+        <element xmi:type="uml:Usage" href="mmi:///#jdep%5Bjsrctype%5Ename=Booking%5Bjcu%5Ename=Booking.java%5Bjpack%5Ename=hotel%5Bjsrcroot%5Esrcfolder=src%5Bproject%5Eid=hotel%5D%5D%5D%5D%5D%5Bjsrctype%5Ename=Meal%5Bjcu%5Ename=Meal.java%5Bjpack%5Ename=hotel%5Bjsrcroot%5Esrcfolder=src%5Bproject%5Eid=hotel%5D%5D%5D%5D%5D$uml.Usage"/>
+        <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_513jegDJEd6QirVmKe_A6g" points="[0, 7752, 3016, -14525]$[-5913, 11588, -2897, -10689]$[-5913, 17039, -2897, -5238]$[-3016, 20240, 0, -2037]"/>
+      </edges>
+      <edges xmi:id="_52AtRQDJEd6QirVmKe_A6g" source="_5byPrQDJEd6QirVmKe_A6g" target="_5b8AaQDJEd6QirVmKe_A6g">
+        <children xmi:id="_52AtSADJEd6QirVmKe_A6g" type="KindLabel">
+          <children xmi:id="_52AtSgDJEd6QirVmKe_A6g" type="Stereotype"/>
+          <children xmi:id="_52AtTADJEd6QirVmKe_A6g" type="Kind"/>
+          <children xmi:id="_52AtSwDJEd6QirVmKe_A6g" type="Name"/>
+          <layoutConstraint xmi:type="notation:Bounds" xmi:id="_52AtSQDJEd6QirVmKe_A6g" y="-186"/>
+        </children>
+        <styles xmi:type="umlnotation:UMLConnectorStyle" xmi:id="_52AtRgDJEd6QirVmKe_A6g" routing="Rectilinear" showStereotype="Text"/>
+        <element xmi:type="uml:Usage" href="mmi:///#jdep%5Bjsrctype%5Ename=Booking%5Bjcu%5Ename=Booking.java%5Bjpack%5Ename=hotel%5Bjsrcroot%5Esrcfolder=src%5Bproject%5Eid=hotel%5D%5D%5D%5D%5D%5Bjsrctype%5Ename=RoomType%5Bjcu%5Ename=RoomType.java%5Bjpack%5Ename=hotel%5Bjsrcroot%5Esrcfolder=src%5Bproject%5Eid=hotel%5D%5D%5D%5D%5D$uml.Usage"/>
+        <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_52AtRwDJEd6QirVmKe_A6g" points="[0, 7752, 9591, -9287]$[-6469, 11588, 3122, -5451]$[-9604, 15425, -13, -1614]"/>
+      </edges>
+      <edges xmi:id="_52AtTQDJEd6QirVmKe_A6g" source="_5byPuQDJEd6QirVmKe_A6g" target="_5b8AaQDJEd6QirVmKe_A6g">
+        <children xmi:id="_52AtUADJEd6QirVmKe_A6g" type="NameLabel">
+          <children xmi:id="_52AtUgDJEd6QirVmKe_A6g" type="Stereotype"/>
+          <children xmi:id="_52AtUwDJEd6QirVmKe_A6g" type="Name"/>
+          <layoutConstraint xmi:type="notation:Bounds" xmi:id="_52AtUQDJEd6QirVmKe_A6g" y="-186"/>
+        </children>
+        <styles xmi:type="umlnotation:UMLConnectorStyle" xmi:id="_52AtTgDJEd6QirVmKe_A6g" routing="Rectilinear" showStereotype="Text"/>
+        <element xmi:type="uml:Generalization" href="mmi:///#jgen%5Bjsrctype%5Ename=Double%5Bjcu%5Ename=Double.java%5Bjpack%5Ename=hotel%5Bjsrcroot%5Esrcfolder=src%5Bproject%5Eid=hotel%5D%5D%5D%5D%5D%5Bjsrctype%5Ename=RoomType%5Bjcu%5Ename=RoomType.java%5Bjpack%5Ename=hotel%5Bjsrcroot%5Esrcfolder=src%5Bproject%5Eid=hotel%5D%5D%5D%5D%5D$uml.Generalization"/>
+        <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_52AtTwDJEd6QirVmKe_A6g" points="[0, -2037, 2553, 3201]$[-2566, -3625, -13, 1613]"/>
+      </edges>
+      <edges xmi:id="_52AtVADJEd6QirVmKe_A6g" source="_5byPuQDJEd6QirVmKe_A6g" target="_5b8AaQDJEd6QirVmKe_A6g">
+        <children xmi:id="_52AtVwDJEd6QirVmKe_A6g" type="KindLabel">
+          <children xmi:id="_52AtWQDJEd6QirVmKe_A6g" type="Stereotype"/>
+          <children xmi:id="_52AtWwDJEd6QirVmKe_A6g" type="Kind"/>
+          <children xmi:id="_52AtWgDJEd6QirVmKe_A6g" type="Name"/>
+          <layoutConstraint xmi:type="notation:Bounds" xmi:id="_52AtWADJEd6QirVmKe_A6g" y="-186"/>
+        </children>
+        <styles xmi:type="umlnotation:UMLConnectorStyle" xmi:id="_52AtVQDJEd6QirVmKe_A6g" routing="Rectilinear" showStereotype="Text"/>
+        <element xmi:type="uml:Usage" href="mmi:///#jdep%5Bjsrctype%5Ename=Double%5Bjcu%5Ename=Double.java%5Bjpack%5Ename=hotel%5Bjsrcroot%5Esrcfolder=src%5Bproject%5Eid=hotel%5D%5D%5D%5D%5D%5Bjsrctype%5Ename=RoomType%5Bjcu%5Ename=RoomType.java%5Bjpack%5Ename=hotel%5Bjsrcroot%5Esrcfolder=src%5Bproject%5Eid=hotel%5D%5D%5D%5D%5D$uml.Usage"/>
+        <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_52AtVgDJEd6QirVmKe_A6g" points="[0, -2037, 2553, 3201]$[-2566, -3625, -13, 1613]"/>
+      </edges>
+      <edges xmi:id="_52AtXADJEd6QirVmKe_A6g" type="OwnedElement" source="_5b8AaQDJEd6QirVmKe_A6g" target="_5byPYgDJEd6QirVmKe_A6g">
+        <styles xmi:type="umlnotation:UMLConnectorStyle" xmi:id="_52AtXQDJEd6QirVmKe_A6g" routing="Rectilinear" showStereotype="Text"/>
+        <element xsi:nil="true"/>
+        <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_52AtXgDJEd6QirVmKe_A6g" points="[-13, 1613, 9578, -3625]$[-9591, 3201, 0, -2037]"/>
+      </edges>
+      <edges xmi:id="_52AtXwDJEd6QirVmKe_A6g" source="_5b8AaQDJEd6QirVmKe_A6g" target="_5byPYgDJEd6QirVmKe_A6g">
+        <children xmi:id="_52AtYgDJEd6QirVmKe_A6g" type="KindLabel">
+          <children xmi:id="_52AtZADJEd6QirVmKe_A6g" type="Stereotype"/>
+          <children xmi:id="_52AtZgDJEd6QirVmKe_A6g" type="Kind"/>
+          <children xmi:id="_52AtZQDJEd6QirVmKe_A6g" type="Name"/>
+          <layoutConstraint xmi:type="notation:Bounds" xmi:id="_52AtYwDJEd6QirVmKe_A6g" y="-186"/>
+        </children>
+        <styles xmi:type="umlnotation:UMLConnectorStyle" xmi:id="_52AtYADJEd6QirVmKe_A6g" routing="Rectilinear" showStereotype="Text"/>
+        <element xmi:type="uml:Usage" href="mmi:///#jdep%5Bjsrctype%5Ename=RoomType%5Bjcu%5Ename=RoomType.java%5Bjpack%5Ename=hotel%5Bjsrcroot%5Esrcfolder=src%5Bproject%5Eid=hotel%5D%5D%5D%5D%5D%5Bjsrctype%5Ename=Type%5Bjsrctype%5Ename=RoomType%5Bjcu%5Ename=RoomType.java%5Bjpack%5Ename=hotel%5Bjsrcroot%5Esrcfolder=src%5Bproject%5Eid=hotel%5D%5D%5D%5D%5D%5D$uml.Usage"/>
+        <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_52AtYQDJEd6QirVmKe_A6g" points="[-13, 1613, 9578, -3625]$[-9591, 3201, 0, -2037]"/>
+      </edges>
+      <edges xmi:id="_52KeQADJEd6QirVmKe_A6g" source="_5b8AdQDJEd6QirVmKe_A6g" target="_5byPoQDJEd6QirVmKe_A6g">
+        <children xmi:id="_52KeQwDJEd6QirVmKe_A6g" type="NameLabel">
+          <children xmi:id="_52KeRQDJEd6QirVmKe_A6g" type="Stereotype"/>
+          <children xmi:id="_52KeRgDJEd6QirVmKe_A6g" type="Name"/>
+          <layoutConstraint xmi:type="notation:Bounds" xmi:id="_52KeRADJEd6QirVmKe_A6g" y="-186"/>
+        </children>
+        <styles xmi:type="umlnotation:UMLConnectorStyle" xmi:id="_52KeQQDJEd6QirVmKe_A6g" routing="Rectilinear" showStereotype="Text"/>
+        <element xmi:type="uml:Generalization" href="mmi:///#jgen%5Bjsrctype%5Ename=Spa%5Bjcu%5Ename=Spa.java%5Bjpack%5Ename=hotel%5Bjsrcroot%5Esrcfolder=src%5Bproject%5Eid=hotel%5D%5D%5D%5D%5D%5Bjsrctype%5Ename=AdditionalItem%5Bjcu%5Ename=AdditionalItem.java%5Bjpack%5Ename=hotel%5Bjsrcroot%5Esrcfolder=src%5Bproject%5Eid=hotel%5D%5D%5D%5D%5D$uml.Generalization"/>
+        <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_52KeQgDJEd6QirVmKe_A6g" points="[0, 2249, -489, -3202]$[476, 3837, -13, -1614]"/>
+      </edges>
+      <edges xmi:id="_52KeRwDJEd6QirVmKe_A6g" source="_5b8AdQDJEd6QirVmKe_A6g" target="_5byPoQDJEd6QirVmKe_A6g">
+        <children xmi:id="_52KeSgDJEd6QirVmKe_A6g" type="KindLabel">
+          <children xmi:id="_52KeTADJEd6QirVmKe_A6g" type="Stereotype"/>
+          <children xmi:id="_52KeTgDJEd6QirVmKe_A6g" type="Kind"/>
+          <children xmi:id="_52KeTQDJEd6QirVmKe_A6g" type="Name"/>
+          <layoutConstraint xmi:type="notation:Bounds" xmi:id="_52KeSwDJEd6QirVmKe_A6g" y="-186"/>
+        </children>
+        <styles xmi:type="umlnotation:UMLConnectorStyle" xmi:id="_52KeSADJEd6QirVmKe_A6g" routing="Rectilinear" showStereotype="Text"/>
+        <element xmi:type="uml:Usage" href="mmi:///#jdep%5Bjsrctype%5Ename=Spa%5Bjcu%5Ename=Spa.java%5Bjpack%5Ename=hotel%5Bjsrcroot%5Esrcfolder=src%5Bproject%5Eid=hotel%5D%5D%5D%5D%5D%5Bjsrctype%5Ename=AdditionalItem%5Bjcu%5Ename=AdditionalItem.java%5Bjpack%5Ename=hotel%5Bjsrcroot%5Esrcfolder=src%5Bproject%5Eid=hotel%5D%5D%5D%5D%5D$uml.Usage"/>
+        <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_52KeSQDJEd6QirVmKe_A6g" points="[0, 2249, -489, -3202]$[476, 3837, -13, -1614]"/>
+      </edges>
+      <edges xmi:id="_52KeTwDJEd6QirVmKe_A6g" source="_5b8AgQDJEd6QirVmKe_A6g" target="_5b8AaQDJEd6QirVmKe_A6g">
+        <children xmi:id="_52KeUgDJEd6QirVmKe_A6g" type="KindLabel">
+          <children xmi:id="_52KeVADJEd6QirVmKe_A6g" type="Stereotype"/>
+          <children xmi:id="_52KeVgDJEd6QirVmKe_A6g" type="Kind"/>
+          <children xmi:id="_52KeVQDJEd6QirVmKe_A6g" type="Name"/>
+          <layoutConstraint xmi:type="notation:Bounds" xmi:id="_52KeUwDJEd6QirVmKe_A6g" y="-186"/>
+        </children>
+        <styles xmi:type="umlnotation:UMLConnectorStyle" xmi:id="_52KeUADJEd6QirVmKe_A6g" routing="Rectilinear" showStereotype="Text"/>
+        <element xmi:type="uml:Usage" href="mmi:///#jdep%5Bjsrctype%5Ename=Family%5Bjcu%5Ename=Family.java%5Bjpack%5Ename=hotel%5Bjsrcroot%5Esrcfolder=src%5Bproject%5Eid=hotel%5D%5D%5D%5D%5D%5Bjsrctype%5Ename=RoomType%5Bjcu%5Ename=RoomType.java%5Bjpack%5Ename=hotel%5Bjsrcroot%5Esrcfolder=src%5Bproject%5Eid=hotel%5D%5D%5D%5D%5D$uml.Usage"/>
+        <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_52KeUQDJEd6QirVmKe_A6g" points="[0, 2249, -13, -3202]$[0, 3837, -13, -1614]"/>
+      </edges>
+      <edges xmi:id="_52KeVwDJEd6QirVmKe_A6g" source="_5b8AgQDJEd6QirVmKe_A6g" target="_5b8AaQDJEd6QirVmKe_A6g">
+        <children xmi:id="_52KeWgDJEd6QirVmKe_A6g" type="NameLabel">
+          <children xmi:id="_52KeXADJEd6QirVmKe_A6g" type="Stereotype"/>
+          <children xmi:id="_52KeXQDJEd6QirVmKe_A6g" type="Name"/>
+          <layoutConstraint xmi:type="notation:Bounds" xmi:id="_52KeWwDJEd6QirVmKe_A6g" y="-186"/>
+        </children>
+        <styles xmi:type="umlnotation:UMLConnectorStyle" xmi:id="_52KeWADJEd6QirVmKe_A6g" routing="Rectilinear" showStereotype="Text"/>
+        <element xmi:type="uml:Generalization" href="mmi:///#jgen%5Bjsrctype%5Ename=Family%5Bjcu%5Ename=Family.java%5Bjpack%5Ename=hotel%5Bjsrcroot%5Esrcfolder=src%5Bproject%5Eid=hotel%5D%5D%5D%5D%5D%5Bjsrctype%5Ename=RoomType%5Bjcu%5Ename=RoomType.java%5Bjpack%5Ename=hotel%5Bjsrcroot%5Esrcfolder=src%5Bproject%5Eid=hotel%5D%5D%5D%5D%5D$uml.Generalization"/>
+        <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_52KeWQDJEd6QirVmKe_A6g" points="[0, 2249, -13, -3202]$[0, 3837, -13, -1614]"/>
+      </edges>
+      <edges xmi:id="_52KeXgDJEd6QirVmKe_A6g" source="_5b8AjQDJEd6QirVmKe_A6g" target="_5bpFdgDJEd6QirVmKe_A6g">
+        <children xmi:id="_52KeYQDJEd6QirVmKe_A6g" type="KindLabel">
+          <children xmi:id="_52KeYwDJEd6QirVmKe_A6g" type="Stereotype"/>
+          <children xmi:id="_52KeZQDJEd6QirVmKe_A6g" type="Kind"/>
+          <children xmi:id="_52KeZADJEd6QirVmKe_A6g" type="Name"/>
+          <layoutConstraint xmi:type="notation:Bounds" xmi:id="_52KeYgDJEd6QirVmKe_A6g" y="-186"/>
+        </children>
+        <styles xmi:type="umlnotation:UMLConnectorStyle" xmi:id="_52KeXwDJEd6QirVmKe_A6g" routing="Rectilinear" showStereotype="Text"/>
+        <element xmi:type="uml:Usage" href="mmi:///#jdep%5Bjsrctype%5Ename=Room%5Bjcu%5Ename=Room.java%5Bjpack%5Ename=hotel%5Bjsrcroot%5Esrcfolder=src%5Bproject%5Eid=hotel%5D%5D%5D%5D%5D%5Bjsrctype%5Ename=Unique%5Bjcu%5Ename=Unique.java%5Bjpack%5Ename=hotel%5Bjsrcroot%5Esrcfolder=src%5Bproject%5Eid=hotel%5D%5D%5D%5D%5D$uml.Usage"/>
+        <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_52KeYADJEd6QirVmKe_A6g" points="[-1, 2249, -2818, -3202]$[2804, 3837, -13, -1614]"/>
+      </edges>
+      <edges xmi:id="_52KeZgDJEd6QirVmKe_A6g" source="_5b8AjQDJEd6QirVmKe_A6g" target="_5b8AaQDJEd6QirVmKe_A6g">
+        <children xmi:id="_52UPQADJEd6QirVmKe_A6g" type="KindLabel">
+          <children xmi:id="_52UPQgDJEd6QirVmKe_A6g" type="Stereotype"/>
+          <children xmi:id="_52UPRADJEd6QirVmKe_A6g" type="Kind"/>
+          <children xmi:id="_52UPQwDJEd6QirVmKe_A6g" type="Name"/>
+          <layoutConstraint xmi:type="notation:Bounds" xmi:id="_52UPQQDJEd6QirVmKe_A6g" y="-186"/>
+        </children>
+        <styles xmi:type="umlnotation:UMLConnectorStyle" xmi:id="_52KeZwDJEd6QirVmKe_A6g" routing="Rectilinear" showStereotype="Text"/>
+        <element xmi:type="uml:Usage" href="mmi:///#jdep%5Bjsrctype%5Ename=Room%5Bjcu%5Ename=Room.java%5Bjpack%5Ename=hotel%5Bjsrcroot%5Esrcfolder=src%5Bproject%5Eid=hotel%5D%5D%5D%5D%5D%5Bjsrctype%5Ename=RoomType%5Bjcu%5Ename=RoomType.java%5Bjpack%5Ename=hotel%5Bjsrcroot%5Esrcfolder=src%5Bproject%5Eid=hotel%5D%5D%5D%5D%5D$uml.Usage"/>
+        <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_52KeaADJEd6QirVmKe_A6g" points="[-1, 2249, 13427, -3202]$[-13441, 3837, -13, -1614]"/>
+      </edges>
+      <edges xmi:id="_52UPRQDJEd6QirVmKe_A6g" source="_5b8AjQDJEd6QirVmKe_A6g" target="_5bpFdgDJEd6QirVmKe_A6g">
+        <children xmi:id="_52UPSADJEd6QirVmKe_A6g" type="NameLabel">
+          <children xmi:id="_52UPSgDJEd6QirVmKe_A6g" type="Stereotype"/>
+          <children xmi:id="_52UPSwDJEd6QirVmKe_A6g" type="Name"/>
+          <layoutConstraint xmi:type="notation:Bounds" xmi:id="_52UPSQDJEd6QirVmKe_A6g" y="-186"/>
+        </children>
+        <styles xmi:type="umlnotation:UMLConnectorStyle" xmi:id="_52UPRgDJEd6QirVmKe_A6g" routing="Rectilinear" showStereotype="Text"/>
+        <element xmi:type="uml:Generalization" href="mmi:///#jgen%5Bjsrctype%5Ename=Room%5Bjcu%5Ename=Room.java%5Bjpack%5Ename=hotel%5Bjsrcroot%5Esrcfolder=src%5Bproject%5Eid=hotel%5D%5D%5D%5D%5D%5Bjsrctype%5Ename=Unique%5Bjcu%5Ename=Unique.java%5Bjpack%5Ename=hotel%5Bjsrcroot%5Esrcfolder=src%5Bproject%5Eid=hotel%5D%5D%5D%5D%5D$uml.Generalization"/>
+        <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_52UPRwDJEd6QirVmKe_A6g" points="[-1, 2249, -2818, -3202]$[2804, 3837, -13, -1614]"/>
+      </edges>
+    </contents>
+  </eAnnotations>
+  <packageImport xmi:id="_xVh59ADJEd6QirVmKe_A6g">
+    <importedPackage xmi:type="uml:Model" href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#_0"/>
+  </packageImport>
+  <profileApplication xmi:id="_xVh59QDJEd6QirVmKe_A6g">
+    <eAnnotations xmi:id="_xVh59gDJEd6QirVmKe_A6g" source="http://www.eclipse.org/uml2/2.0.0/UML">
+      <references xmi:type="ecore:EPackage" href="pathmap://UML_PROFILES/Standard.profile.uml#_yzU58YinEdqtvbnfB2L_5w"/>
+    </eAnnotations>
+    <appliedProfile href="pathmap://UML_PROFILES/Standard.profile.uml#_0"/>
+  </profileApplication>
+  <profileApplication xmi:id="_xVh59wDJEd6QirVmKe_A6g">
+    <eAnnotations xmi:id="_xVh5-ADJEd6QirVmKe_A6g" source="http://www.eclipse.org/uml2/2.0.0/UML">
+      <references xmi:type="ecore:EPackage" href="pathmap://UML2_MSL_PROFILES/Default.epx#_IN8k8MmBEdqBcN1R6EvWUw?Default/Default?"/>
+    </eAnnotations>
+    <appliedProfile href="pathmap://UML2_MSL_PROFILES/Default.epx#_a_S3wNWLEdiy4IqP8whjFA?Default?"/>
+  </profileApplication>
+  <profileApplication xmi:id="_xVh5-QDJEd6QirVmKe_A6g">
+    <eAnnotations xmi:id="_xVh5-gDJEd6QirVmKe_A6g" source="http://www.eclipse.org/uml2/2.0.0/UML">
+      <references xmi:type="ecore:EPackage" href="pathmap://UML2_MSL_PROFILES/Deployment.epx#_IrdAUMmBEdqBcN1R6EvWUw?Deployment/Deployment?"/>
+    </eAnnotations>
+    <appliedProfile href="pathmap://UML2_MSL_PROFILES/Deployment.epx#_vjbuwOvHEdiDX5bji0iVSA?Deployment?"/>
+  </profileApplication>
+</uml:Model>

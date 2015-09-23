@@ -1,0 +1,103 @@
+import xml.XMLOutput;
+import hotel.BookingSystem;
+import hotel.RoomType.Type;
+
+public class Main {
+
+    public static void main(String[] args) {
+
+	// Create a target for the XML output...
+
+	XMLOutput xml = new XMLOutput();
+
+	// Create a new booking system...
+
+	BookingSystem bookingSystem = new BookingSystem();
+
+	// Show the empty system...
+
+	bookingSystem.xml(xml);
+	System.out.println("Nothing defined yet...\n" + xml);
+
+	// Create some hotels and get their ids...
+
+	int h1 = bookingSystem.addHotel("FleaPit Towers", "London");
+	int h2 = bookingSystem.addHotel("Comfy Cribs", "London");
+	int h3 = bookingSystem.addHotel("FleaPit Towers", "Manchester");
+
+	// Show just the hotels...
+
+	bookingSystem.xml(xml);
+	System.out.println("\n\nSome hotels...\n" + xml);
+
+	// Populate the hotels with some rooms...
+
+	int r1 = bookingSystem.addRoom(h1, Type.Single, 1, 150.0);
+	int r2 = bookingSystem.addRoom(h1, Type.Double, 2, 250.0);
+	int r3 = bookingSystem.addRoom(h1, Type.Double, 3, 250.0);
+
+	int r4 = bookingSystem.addRoom(h2, Type.Single, 1, 200.0);
+	int r5 = bookingSystem.addRoom(h2, Type.Double, 2, 350.0);
+	int r6 = bookingSystem.addRoom(h2, Type.Double, 3, 350.0);
+
+	// Show the populated hotels...
+
+	bookingSystem.xml(xml);
+	System.out.println("\n\nSome hotels with rooms...\n" + xml);
+
+	// Register some customers...
+
+	int c1 = bookingSystem.registerCustomer("Fred", "10 Main St., Manchester");
+	int c2 = bookingSystem.registerCustomer("Sally", "10 Main St., Leeds");
+	int c3 = bookingSystem.registerCustomer("Bill", "10 Main St., Edinburgh");
+
+	// Show the customers...
+
+	bookingSystem.xml(xml);
+	System.out.println("\n\nSome customers have registered...\n" + xml);
+
+	// Create some bookings...
+
+	int b1 = bookingSystem.book(c1, h1, 1, "01/01/2009");
+	int b2 = bookingSystem.book(c2, h2, 2, "02/01/2009");
+	int b3 = bookingSystem.book(c3, h2, 3, "03/02/09");
+
+	// Show the bookings...
+
+	bookingSystem.xml(xml);
+	System.out.println("\n\nSome bookings...\n" + xml);
+
+	// The customer arrives and books-in with the front desk of the hotel...
+
+	bookingSystem.arrive(b1, "21/02/2009");
+	bookingSystem.arrive(b2, "22/02/2009");
+
+	// Show the arrivals...
+
+	bookingSystem.xml(xml);
+	System.out.println("\n\nSome customers have arrived...\n" + xml);
+
+	// Hotel facilities are used via the booking number (on the key card)..
+
+	bookingSystem.useSpa(b1, 200.0);
+	bookingSystem.buyDrink(b1, 10.0);
+	bookingSystem.buyMeal(b2, 25.0);
+
+	// Show the use of the facilities...
+
+	bookingSystem.xml(xml);
+	System.out.println("\n\nCustomers have used the facilities...\n" + xml);
+
+	// Checkout via the booking number, supplying some funds...
+
+	bookingSystem.checkout(b1, 1000.0, "22/02/2009");
+	bookingSystem.checkout(b2, 1000.0, "22/02/2009");
+
+	// Show the final state...
+	
+	bookingSystem.xml(xml);
+	System.out.println("\n\nAfter checkouts...\n" + xml);
+
+    }
+
+}
